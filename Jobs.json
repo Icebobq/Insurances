@@ -1,0 +1,4330 @@
+[
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "1",
+            "coreCode": "0001001",
+            "name": "\u5185\u52e4\u4eba\u5458"
+          },
+          {
+            "category": "2",
+            "name": "\u5916\u52e4\u4eba\u5458",
+            "coreCode": "0001002"
+          }
+        ],
+        "category": "null",
+        "name": "\u673a\u5173\u56e2\u4f53\u4f01\u4e8b\u4e1a\u5355\u4f4d",
+        "coreCode": "00101"
+      }
+    ],
+    "category": "null",
+    "name": "\u4e00\u822c\u804c\u4e1a",
+    "coreCode": "001"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u519c\u573a\u7ecf\u8425\u8005",
+            "coreCode": "0002101"
+          },
+          {
+            "category": "2",
+            "name": "\u519c\u592b",
+            "coreCode": "0002102"
+          },
+          {
+            "category": "3",
+            "name": "\u957f\u77ed\u5de5",
+            "coreCode": "0002103"
+          },
+          {
+            "category": "3",
+            "name": "\u679c\u519c",
+            "coreCode": "0002104"
+          },
+          {
+            "category": "2",
+            "name": "\u82d7\u5703\u683d\u57f9\u4eba\u5458",
+            "coreCode": "0002105"
+          },
+          {
+            "category": "2",
+            "name": "\u82b1\u5703\u683d\u57f9\u4eba\u5458",
+            "coreCode": "0002106"
+          },
+          {
+            "category": "2",
+            "name": "\u9972\u517b\u5bb6\u79bd\u5bb6\u755c\u4eba\u5458",
+            "coreCode": "0002107"
+          },
+          {
+            "category": "2",
+            "name": "\u519c\u4e1a\u6280\u5e08",
+            "coreCode": "0002108"
+          },
+          {
+            "category": "3",
+            "name": "\u519c\u673a\u64cd\u4f5c\uff0c\u4fee\u62a4\u4eba\u5458",
+            "coreCode": "0002109"
+          },
+          {
+            "category": "2",
+            "name": "\u519c\u5177\u5546",
+            "coreCode": "0002110"
+          }
+        ],
+        "category": "null",
+        "name": "\u519c\u4e1a",
+        "coreCode": "00201"
+      },
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u755c\u7267\u573a\u7ecf\u8425\u8005",
+            "coreCode": "0002201"
+          },
+          {
+            "category": "3",
+            "name": "\u755c\u7267\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0002202"
+          },
+          {
+            "category": "2",
+            "name": "\u517d\u533b",
+            "coreCode": "0002204"
+          }
+        ],
+        "category": "null",
+        "name": "\u5185\u9646\u7267\u4e1a",
+        "coreCode": "00202"
+      }
+    ],
+    "category": "null",
+    "name": "\u519c\u7267\u4e1a",
+    "coreCode": "002"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u6e14\u573a\u7ecf\u8425\u8005\uff08\u4e0d\u4eb2\u81ea\u4f5c\u4e1a\uff09",
+            "coreCode": "0003101"
+          },
+          {
+            "category": "3",
+            "name": "\u6e14\u573a\u7ecf\u8425\u8005\uff08\u4eb2\u81ea\u4f5c\u4e1a\uff09",
+            "coreCode": "0003102"
+          },
+          {
+            "category": "3",
+            "name": "\u517b\u6b96\u5de5\u4eba\uff08\u5185\u9646\uff09",
+            "coreCode": "0003103"
+          },
+          {
+            "category": "4",
+            "name": "\u517b\u6b96\u5de5\u4eba\uff08\u6cbf\u6d77\uff09",
+            "coreCode": "0003104"
+          },
+          {
+            "category": "2",
+            "name": "\u6c34\u65cf\u9986\u7ecf\u8425\u8005",
+            "coreCode": "0003105"
+          },
+          {
+            "category": "4",
+            "name": "\u6355\u9c7c\u4eba\uff08\u5185\u9646\uff09",
+            "coreCode": "0003106"
+          },
+          {
+            "category": "5",
+            "name": "\u6355\u9c7c\u4eba\uff08\u6cbf\u6d77\uff09",
+            "coreCode": "0003107"
+          },
+          {
+            "category": "1",
+            "name": "\u6c34\u4ea7\u5b9e\u9a8c\u4eba\u5458\uff08\u5ba4\u5185\uff09",
+            "coreCode": "0003108"
+          }
+        ],
+        "category": "null",
+        "name": "\u5185\u9646\u6e14\u4e1a",
+        "coreCode": "00301"
+      },
+      {
+        "children": [
+          {
+            "category": "8",
+            "name": "\u8fdc\u6d0b\u6e14\u8239\u8239\u5458",
+            "coreCode": "0003201"
+          },
+          {
+            "category": "8",
+            "name": "\u8fd1\u6d77\u6e14\u8239\u8239\u5458",
+            "coreCode": "0003202"
+          }
+        ],
+        "category": "null",
+        "name": "\u6d77\u4e0a\u6e14\u4e1a",
+        "coreCode": "00302"
+      }
+    ],
+    "category": "null",
+    "name": "\u6e14\u4e1a",
+    "coreCode": "003"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "5",
+            "name": "\u9886\u73ed",
+            "coreCode": "0004101"
+          },
+          {
+            "category": "5",
+            "name": "\u76d1\u5de5",
+            "coreCode": "0004102"
+          },
+          {
+            "category": "6",
+            "name": "\u4f10\u6728\u5de5\u4eba",
+            "coreCode": "0004103"
+          },
+          {
+            "category": "6",
+            "name": "\u952f\u6728\u5de5\u4eba",
+            "coreCode": "0004104"
+          },
+          {
+            "category": "6",
+            "name": "\u8fd0\u6750\u4eba\u5458",
+            "coreCode": "0004105"
+          },
+          {
+            "category": "6",
+            "name": "\u8d77\u91cd\u673a\u4e4b\u64cd\u4f5c\u4eba",
+            "coreCode": "0004106"
+          },
+          {
+            "category": "6",
+            "name": "\u88c5\u8fd0\u5de5\u4eba",
+            "coreCode": "0004107"
+          }
+        ],
+        "category": "null",
+        "name": "\u68ee\u6797\u780d\u4f10\u4e1a",
+        "coreCode": "00401"
+      },
+      {
+        "children": [
+          {
+            "category": "4",
+            "name": "\u6728\u6750\u5de5\u5382\u73b0\u573a\u4e4b\u804c\u5458",
+            "coreCode": "0004201"
+          },
+          {
+            "category": "3",
+            "name": "\u9886\u73ed",
+            "coreCode": "0004202"
+          },
+          {
+            "category": "3",
+            "name": "\u5206\u7ea7\u5458",
+            "coreCode": "0004203"
+          },
+          {
+            "category": "3",
+            "name": "\u68c0\u67e5\u5458",
+            "coreCode": "0004204"
+          },
+          {
+            "category": "3",
+            "name": "\u6807\u8bb0\u5458",
+            "coreCode": "0004205"
+          },
+          {
+            "category": "3",
+            "name": "\u78c5\u79e4\u5458",
+            "coreCode": "0004206"
+          },
+          {
+            "category": "5",
+            "name": "\u952f\u6728\u5de5\u4eba",
+            "coreCode": "0004207"
+          },
+          {
+            "category": "4",
+            "name": "\u9632\u8150\u5242\u5de5\u4eba",
+            "coreCode": "0004208"
+          },
+          {
+            "category": "4",
+            "name": "\u6728\u6750\u50a8\u85cf\u69fd\u5de5\u4eba",
+            "coreCode": "0004209"
+          },
+          {
+            "category": "5",
+            "name": "\u6728\u6750\u642c\u8fd0\u5de5\u4eba",
+            "coreCode": "0004210"
+          },
+          {
+            "category": "3",
+            "name": "\u540a\u8f66\u64cd\u4f5c\u4eba\u5458",
+            "coreCode": "0004211"
+          },
+          {
+            "category": "4",
+            "name": "\u5408\u677f\u5236\u9020\u5de5\u4eba",
+            "coreCode": "0004212"
+          }
+        ],
+        "category": "null",
+        "name": "\u6728\u6750\u52a0\u5de5\u5382",
+        "coreCode": "00402"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u9886\u73ed",
+            "coreCode": "0004301"
+          },
+          {
+            "category": "4",
+            "name": "\u5c71\u5730\u9020\u6797\u5de5\u4eba",
+            "coreCode": "0004302"
+          },
+          {
+            "category": "4",
+            "name": "\u5c71\u6797\u7ba1\u7406\u4eba\u5458",
+            "coreCode": "0004303"
+          },
+          {
+            "category": "6",
+            "name": "\u68ee\u6797\u9632\u706b\u4eba\u5458",
+            "coreCode": "0004304"
+          },
+          {
+            "category": "2",
+            "name": "\u5e73\u5730\u80b2\u82d7\u5de5\u4eba",
+            "coreCode": "0004305"
+          },
+          {
+            "category": "1",
+            "name": "\u5b9e\u9a8c\u5ba4\u80b2\u82d7\u683d\u57f9\u4eba\u5458",
+            "coreCode": "0004306"
+          }
+        ],
+        "category": "null",
+        "name": "\u9020\u6797\u4e1a",
+        "coreCode": "00403"
+      }
+    ],
+    "category": "null",
+    "name": "\u6797\u4e1a",
+    "coreCode": "004"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "8",
+            "name": "\u77ff\u5de5",
+            "coreCode": "0005101"
+          }
+        ],
+        "category": "null",
+        "name": "\u5751\u5185\u4f5c\u4e1a",
+        "coreCode": "00501"
+      },
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u7ecf\u8425\u8005\uff08\u4e0d\u5230\u73b0\u573a\u8005\uff09",
+            "coreCode": "0005201"
+          },
+          {
+            "category": "2",
+            "name": "\u7ecf\u8425\u8005\uff08\u73b0\u573a\u76d1\u7763\u8005\uff09",
+            "coreCode": "0005202"
+          },
+          {
+            "category": "2",
+            "name": "\u7ecf\u7406\u4eba\u5458",
+            "coreCode": "0005203"
+          },
+          {
+            "category": "4",
+            "name": "\u77ff\u4e1a\u5de5\u7a0b\u5e08\uff0c\u6280\u5e08\uff0c\u9886\u73ed",
+            "coreCode": "0005204"
+          },
+          {
+            "category": "5",
+            "name": "\u5de5\u4eba",
+            "coreCode": "0005205"
+          },
+          {
+            "category": "4",
+            "name": "\u5de5\u77ff\u5b89\u5168\u4eba\u5458",
+            "coreCode": "0005206"
+          }
+        ],
+        "category": "null",
+        "name": "\u5751\u5916\u4f5c\u4e1a",
+        "coreCode": "00502"
+      },
+      {
+        "children": [
+          {
+            "category": "8",
+            "name": "\u6240\u6709\u4f5c\u4e1a\u4eba\u5458\uff08\u6f5c\u6c34\u4eba\u5458\u62d2\u4fdd\uff09",
+            "coreCode": "0005301"
+          }
+        ],
+        "category": "null",
+        "name": "\u6d77\u4e0a\u4f5c\u4e1a",
+        "coreCode": "00503"
+      },
+      {
+        "children": [
+          {
+            "category": "4",
+            "name": "\u91c7\u77f3\u4e1a\u5de5\u4eba",
+            "coreCode": "0005401"
+          },
+          {
+            "category": "4",
+            "name": "\u91c7\u7802\u4e1a\u5de5\u4eba",
+            "coreCode": "0005402"
+          }
+        ],
+        "category": "null",
+        "name": "\u91c7\u7802\u77f3\u4e1a",
+        "coreCode": "00504"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u884c\u653f\u4eba\u5458",
+            "coreCode": "0005501"
+          },
+          {
+            "category": "3",
+            "name": "\u5de5\u7a0b\u5e08",
+            "coreCode": "0005502"
+          },
+          {
+            "category": "5",
+            "name": "\u6280\u672f\u5458",
+            "coreCode": "0005503"
+          },
+          {
+            "category": "5",
+            "name": "\u6cb9\u6c14\u4e95\u6e05\u6d01\u4fdd\u517b\u4fee\u62a4\u5de5",
+            "coreCode": "0005504"
+          },
+          {
+            "category": "5",
+            "name": "\u94bb\u52d8\u8bbe\u5907\u88c5\u4fee\u4fdd\u517b\u5de5",
+            "coreCode": "0005505"
+          },
+          {
+            "category": "5",
+            "name": "\u94bb\u6cb9\u4e95\u5de5\u4eba",
+            "coreCode": "0005506"
+          }
+        ],
+        "category": "null",
+        "name": "\u9646\u4e0a\u6cb9\u77ff\u5f00\u91c7\u4e1a",
+        "coreCode": "00506"
+      }
+    ],
+    "category": "null",
+    "name": "\u91c7\u77ff\u4e1a",
+    "coreCode": "005"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u8ba1\u7a0b\uff0c\u8d27\u8fd0\u884c\u4e1a\u8d1f\u8d23\u4eba",
+            "coreCode": "0006101"
+          },
+          {
+            "category": "2",
+            "name": "\u5916\u52a1\u5458",
+            "coreCode": "0006102"
+          },
+          {
+            "category": "1",
+            "name": "\u5185\u52e4\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0006103"
+          },
+          {
+            "category": "2",
+            "name": "\u81ea\u7528\u5c0f\u5ba2\u8f66\u53f8\u673a",
+            "coreCode": "0006104"
+          },
+          {
+            "category": "2",
+            "name": "\u81ea\u7528\u5927\u5ba2\u8f66\u53f8\u673a",
+            "coreCode": "0006105"
+          },
+          {
+            "category": "3",
+            "name": "\u8ba1\u7a0b\u8f66\u53f8\u673a",
+            "coreCode": "0006106"
+          },
+          {
+            "category": "3",
+            "name": "\u6e38\u89c8\u8f66\u53f8\u673a\u53ca\u670d\u52a1\u5458",
+            "coreCode": "0006107"
+          },
+          {
+            "category": "3",
+            "name": "\u5ba2\u8fd0\u8f66\u53f8\u673a\u53ca\u670d\u52a1\u5458",
+            "coreCode": "0006108"
+          },
+          {
+            "category": "3",
+            "name": "\u5c0f\u578b\u5ba2\u8d27\u4e24\u7528\u8f66\u53f8\u673a",
+            "coreCode": "0006109"
+          },
+          {
+            "category": "4",
+            "name": "\u81ea\u7528\u8d27\u8f66\u53f8\u673a\uff0c\u968f\u8f66\u5de5\u4eba",
+            "coreCode": "0006110"
+          },
+          {
+            "category": "3",
+            "name": "\u4eba\u529b\u4e09\u8f6e\u8f66\u592b",
+            "coreCode": "0006111"
+          },
+          {
+            "category": "5",
+            "name": "\u62d6\u62c9\u673a\u9a7e\u9a76\u4eba\u5458",
+            "coreCode": "0006112"
+          },
+          {
+            "category": "5",
+            "name": "\u673a\u52a8\u4e09\u8f6e\u8f66\u4eba\u5458",
+            "coreCode": "0006113"
+          },
+          {
+            "category": "1",
+            "name": "\u67dc\u53f0\u552e\u7968\u5458",
+            "coreCode": "0006114"
+          },
+          {
+            "category": "2",
+            "name": "\u5ba2\u8fd0\u8f66\u7a3d\u6838\u4eba\u5458",
+            "coreCode": "0006115"
+          },
+          {
+            "category": "6",
+            "name": "\u8425\u4e1a\u7528\u8d27\u8f66\u53f8\u673a",
+            "coreCode": "0006116"
+          },
+          {
+            "category": "6",
+            "name": "\u8425\u4e1a\u7528\u8d27\u8f66\u968f\u8f66\u5de5\u4eba",
+            "coreCode": "0006117"
+          },
+          {
+            "category": "4",
+            "name": "\u642c\u8fd0\u5de5\u4eba",
+            "coreCode": "0006118"
+          },
+          {
+            "category": "6",
+            "name": "\u7802\u77f3\u8f66\u53f8\u673a\uff0c\u968f\u8f66\u5de5\u4eba",
+            "coreCode": "0006119"
+          },
+          {
+            "category": "5",
+            "name": "\u5de5\u7a0b\u5361\u8f66\u4eba\u5458",
+            "coreCode": "0006120"
+          },
+          {
+            "category": "6",
+            "name": "\u6db2\u5316\uff0c\u6c14\u5316\u6cb9\u7f50\u8f66\u4eba\u5458",
+            "coreCode": "0006121"
+          },
+          {
+            "category": "4",
+            "name": "\u8d27\u67dc\u8f66\u53f8\u673a\uff0c\u968f\u8f66\u5de5\u4eba",
+            "coreCode": "0006122"
+          }
+        ],
+        "category": "null",
+        "name": "\u9646\u8fd0",
+        "coreCode": "00601"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u7f06\u8f66\u64cd\u4f5c\u5458",
+            "coreCode": "0006123"
+          },
+          {
+            "category": "1",
+            "name": "\u7ad9\u957f",
+            "coreCode": "0006201"
+          },
+          {
+            "category": "1",
+            "name": "\u7968\u623f\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0006202"
+          },
+          {
+            "category": "1",
+            "name": "\u64ad\u97f3\u5458",
+            "coreCode": "0006203"
+          },
+          {
+            "category": "1",
+            "name": "\u4e00\u822c\u5185\u52e4\u4eba\u5458",
+            "coreCode": "0006204"
+          },
+          {
+            "category": "1",
+            "name": "\u8f66\u7ad9\u526a\u7968\u5458",
+            "coreCode": "0006205"
+          },
+          {
+            "category": "1",
+            "name": "\u670d\u52a1\u53f0\u4eba\u5458",
+            "coreCode": "0006206"
+          },
+          {
+            "category": "2",
+            "name": "\u6708\u53f0\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0006207"
+          },
+          {
+            "category": "2",
+            "name": "\u884c\u674e\u642c\u8fd0\u5de5\u4eba",
+            "coreCode": "0006208"
+          },
+          {
+            "category": "2",
+            "name": "\u8f66\u7ad9\u6e05\u6d01\u5de5\u4eba",
+            "coreCode": "0006209"
+          },
+          {
+            "category": "2",
+            "name": "\u968f\u8f66\u4eba\u5458\uff08\u6280\u672f\u4eba\u5458\u9664\u5916\uff09",
+            "coreCode": "0006210"
+          },
+          {
+            "category": "3",
+            "name": "\u9a7e\u9a76\u5458",
+            "coreCode": "0006211"
+          },
+          {
+            "category": "3",
+            "name": "\u71c3\u6599\u586b\u5145\u5458",
+            "coreCode": "0006212"
+          },
+          {
+            "category": "4",
+            "name": "\u673a\u5de5",
+            "coreCode": "0006213"
+          },
+          {
+            "category": "4",
+            "name": "\u7535\u5de5",
+            "coreCode": "0006214"
+          },
+          {
+            "category": "1",
+            "name": "\u4fee\u8bbe\u5382\u5382\u957f",
+            "coreCode": "0006215"
+          },
+          {
+            "category": "1",
+            "name": "\u4fee\u8bbe\u5382\u4e00\u822c\u5185\u52e4",
+            "coreCode": "0006216"
+          },
+          {
+            "category": "2",
+            "name": "\u4fee\u8bbe\u5382\u5de5\u7a0b\u5e08",
+            "coreCode": "0006217"
+          },
+          {
+            "category": "3",
+            "name": "\u4fee\u8bbe\u5382\u6280\u5de5",
+            "coreCode": "0006218"
+          },
+          {
+            "category": "4",
+            "name": "\u4fee\u8def\u5de5",
+            "coreCode": "0006219"
+          },
+          {
+            "category": "4",
+            "name": "\u94c1\u8def\u7ef4\u62a4\u5de5",
+            "coreCode": "0006220"
+          },
+          {
+            "category": "2",
+            "name": "\u5e73\u4ea4\u9053\u770b\u5b88\u4eba\u5458",
+            "coreCode": "0006221"
+          },
+          {
+            "category": "3",
+            "name": "\u94c1\u8def\u8d27\u8fd0\u9886\u73ed",
+            "coreCode": "0006222"
+          },
+          {
+            "category": "4",
+            "name": "\u94c1\u8def\u8d27\u8fd0\u642c\u8fd0\u5de5\u4eba",
+            "coreCode": "0006223"
+          }
+        ],
+        "category": "null",
+        "name": "\u94c1\u8def",
+        "coreCode": "00602"
+      },
+      {
+        "children": [
+          {
+            "category": "4",
+            "name": "\u5ba2\u8d27\u8f6e\u8239\u957f",
+            "coreCode": "0006301"
+          },
+          {
+            "category": "4",
+            "name": "\u5ba2\u8d27\u8f6e\u673a\u957f\u548c\u9ad8\u7ea7\u8239\u5458",
+            "coreCode": "0006302"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u5927\u526f",
+            "coreCode": "0006303"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u4e8c\u526f",
+            "coreCode": "0006304"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u4e09\u526f",
+            "coreCode": "0006305"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u5927\u7ba1\u8f6e",
+            "coreCode": "0006306"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u4e8c\u7ba1\u8f6e",
+            "coreCode": "0006307"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u4e09\u7ba1\u8f6e",
+            "coreCode": "0006308"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u62a5\u52a1\u5458",
+            "coreCode": "0006309"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u4e8b\u52a1\u957f",
+            "coreCode": "0006310"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u533b\u52a1\u4eba\u5458\u53ca\u4e00\u822c\u8239\u5458",
+            "coreCode": "0006311"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u6c34\u624b\u957f",
+            "coreCode": "0006312"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u6c34\u624b",
+            "coreCode": "0006313"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u94dc\u5320",
+            "coreCode": "0006314"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u6728\u5320",
+            "coreCode": "0006315"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u6cf5\u5320",
+            "coreCode": "0006316"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u7535\u673a\u5e08",
+            "coreCode": "0006317"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u53a8\u5e08",
+            "coreCode": "0006318"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u670d\u52a1\u751f",
+            "coreCode": "0006319"
+          },
+          {
+            "category": "5",
+            "name": "\u5ba2\u8d27\u8f6e\u5b9e\u4e60\u751f",
+            "coreCode": "0006320"
+          },
+          {
+            "category": "6",
+            "name": "\u6e38\u89c8\u8239\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0006321"
+          },
+          {
+            "category": "6",
+            "name": "\u5c0f\u6c7d\u8247\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0006322"
+          },
+          {
+            "category": "6",
+            "name": "\u7801\u5934\u5de5\u4eba\u53ca\u9886\u73ed",
+            "coreCode": "0006323"
+          },
+          {
+            "category": "4",
+            "name": "\u63a8\u9ad8\u673a\u64cd\u4f5c\u5458",
+            "coreCode": "0006324"
+          },
+          {
+            "category": "3",
+            "name": "\u6e2f\u53e3\u4ed3\u5e93\u7ba1\u7406\u4eba",
+            "coreCode": "0006325"
+          },
+          {
+            "category": "4",
+            "name": "\u6e2f\u53e3\u4f5c\u4e1a\u9886\u822a\u5458",
+            "coreCode": "0006326"
+          },
+          {
+            "category": "4",
+            "name": "\u6e2f\u53e3\u4f5c\u4e1a\u5f15\u6c34\u4eba",
+            "coreCode": "0006327"
+          },
+          {
+            "category": "2",
+            "name": "\u6e2f\u53e3\u4f5c\u4e1a\u4e1a\u52a1\u4eba\u5458",
+            "coreCode": "0006328"
+          },
+          {
+            "category": "3",
+            "name": "\u6e2f\u53e3\u4f5c\u4e1a\u7a3d\u67e5\u4eba\u5458",
+            "coreCode": "0006329"
+          },
+          {
+            "category": "5",
+            "name": "\u6e2f\u53e3\u4f5c\u4e1a\u7f09\u79c1\u4eba\u5458",
+            "coreCode": "0006330"
+          },
+          {
+            "category": "4",
+            "name": "\u62d6\u8239\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0006331"
+          },
+          {
+            "category": "4",
+            "name": "\u6e21\u8f6e\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0006332"
+          },
+          {
+            "category": "6",
+            "name": "\u6551\u96be\u8239\u5458",
+            "coreCode": "0006333"
+          }
+        ],
+        "category": "null",
+        "name": "\u822a\u8fd0\u8fdc\u6d0b\uff08\u8d85\u8fc73000\u5428\u4ee5\u4e0a\u7684\u8239\uff09",
+        "coreCode": "00603"
+      },
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u822a\u7a7a\u7ad9\u7ad9\u957f",
+            "coreCode": "0006401"
+          },
+          {
+            "category": "1",
+            "name": "\u822a\u7a7a\u7ad9\u64ad\u97f3\u5458 ",
+            "coreCode": "0006402"
+          },
+          {
+            "category": "1",
+            "name": "\u822a\u7a7a\u7ad9\u670d\u52a1\u5ba4\u4eba\u5458",
+            "coreCode": "0006403"
+          },
+          {
+            "category": "1",
+            "name": "\u822a\u7a7a\u7ad9\u4e00\u822c\u5185\u52e4",
+            "coreCode": "0006404"
+          },
+          {
+            "category": "1",
+            "name": "\u822a\u7a7a\u7ad9\u5854\u5ba4\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0006405"
+          },
+          {
+            "category": "1",
+            "name": "\u822a\u7a7a\u7ad9\u4e1a\u52a1\u4eba\u5458",
+            "coreCode": "0006406"
+          },
+          {
+            "category": "2",
+            "name": "\u822a\u7a7a\u7ad9\u68c0\u67e5\u4eba\u5458",
+            "coreCode": "0006407"
+          },
+          {
+            "category": "2",
+            "name": "\u822a\u7a7a\u7ad9\u8fd0\u52a1\u4eba\u5458",
+            "coreCode": "0006408"
+          },
+          {
+            "category": "2",
+            "name": "\u822a\u7a7a\u7ad9\u7f09\u79c1\u4eba\u5458",
+            "coreCode": "0006409"
+          },
+          {
+            "category": "2",
+            "name": "\u822a\u7a7a\u7ad9\u5185\u6e05\u6d01\u5de5\u4eba",
+            "coreCode": "0006410"
+          },
+          {
+            "category": "3",
+            "name": "\u673a\u573a\u5185\u4ea4\u901a\u8f66\u53f8\u673a",
+            "coreCode": "0006411"
+          },
+          {
+            "category": "3",
+            "name": "\u822a\u7a7a\u884c\u674e\u8d27\u8fd0\u642c\u8fd0\u5458",
+            "coreCode": "0006412"
+          },
+          {
+            "category": "4",
+            "name": "\u52a0\u6dfb\u71c3\u6599\u5458",
+            "coreCode": "0006413"
+          },
+          {
+            "category": "6",
+            "name": "\u98de\u673a\u6d17\u5237\u4eba\u5458\uff08\u5916\uff09",
+            "coreCode": "0006414"
+          },
+          {
+            "category": "2",
+            "name": "\u822a\u7a7a\u6e05\u6d01\u5de5\uff08\u5185\uff09",
+            "coreCode": "0006415"
+          },
+          {
+            "category": "4",
+            "name": "\u822a\u7a7a\u8dd1\u9053\u7ef4\u62a4\u5de5",
+            "coreCode": "0006416"
+          },
+          {
+            "category": "4",
+            "name": "\u822a\u7a7a\u7ad9\u673a\u68b0\u5458",
+            "coreCode": "0006417"
+          },
+          {
+            "category": "4",
+            "name": "\u98de\u673a\u4fee\u62a4\u4eba\u5458",
+            "coreCode": "0006418"
+          },
+          {
+            "category": "1",
+            "name": "\u822a\u7a7a\u516c\u53f8\u529e\u4e8b\u5904\u4eba\u5458",
+            "coreCode": "0006419"
+          },
+          {
+            "category": "1",
+            "name": "\u822a\u7a7a\u516c\u53f8\u7968\u52a1\u4eba\u5458",
+            "coreCode": "0006420"
+          },
+          {
+            "category": "1",
+            "name": "\u673a\u573a\u67dc\u53f0\u4eba\u5458",
+            "coreCode": "0006421"
+          },
+          {
+            "category": "2",
+            "name": "\u822a\u7a7a\u516c\u53f8\u6e05\u4ed3\u5458",
+            "coreCode": "0006422"
+          },
+          {
+            "category": "1",
+            "name": "\u822a\u7a7a\u8d27\u8fd0\u4e00\u822c\u5185\u52e4",
+            "coreCode": "0006423"
+          },
+          {
+            "category": "2",
+            "name": "\u822a\u7a7a\u8d27\u8fd0\u5916\u52a1\u4eba\u5458",
+            "coreCode": "0006424"
+          },
+          {
+            "category": "2",
+            "name": "\u822a\u7a7a\u8d27\u8fd0\u62a5\u5173\u4eba\u5458",
+            "coreCode": "0006425"
+          },
+          {
+            "category": "3",
+            "name": "\u822a\u7a7a\u8d27\u8fd0\u7406\u8d27\u5458",
+            "coreCode": "0006426"
+          },
+          {
+            "category": "6",
+            "name": "\u6c11\u822a\u673a\u98de\u884c\u5458",
+            "coreCode": "0006427"
+          },
+          {
+            "category": "6",
+            "name": "\u673a\u4e0a\u670d\u52a1\u5458",
+            "coreCode": "0006428"
+          },
+          {
+            "category": "6",
+            "name": "\u76f4\u5347\u673a\u98de\u884c\u5458",
+            "coreCode": "0006429"
+          }
+        ],
+        "category": "null",
+        "name": "\u7a7a\u8fd0",
+        "coreCode": "00604"
+      }
+    ],
+    "category": "null",
+    "name": "\u4ea4\u901a\u8fd0\u8f93\u4e1a",
+    "coreCode": "006"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u4e00\u822c\u5185\u52e4",
+            "coreCode": "0007101"
+          },
+          {
+            "category": "2",
+            "name": "\u5916\u52a1\u5458",
+            "coreCode": "0007102"
+          },
+          {
+            "category": "2",
+            "name": "\u5bfc\u6e38",
+            "coreCode": "0007103"
+          }
+        ],
+        "category": "null",
+        "name": "\u65c5\u6e38\u4e1a",
+        "coreCode": "00701"
+      },
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u8d1f\u8d23\u4eba",
+            "coreCode": "0007201"
+          },
+          {
+            "category": "1",
+            "name": "\u4e00\u822c\u5185\u52e4",
+            "coreCode": "0007202"
+          },
+          {
+            "category": "2",
+            "name": "\u5916\u52a1\u5458",
+            "coreCode": "0007203"
+          },
+          {
+            "category": "2",
+            "name": "\u6536\u8d26\u5458",
+            "coreCode": "0007204"
+          },
+          {
+            "category": "3",
+            "name": "\u6280\u5de5",
+            "coreCode": "0007205"
+          }
+        ],
+        "category": "null",
+        "name": "\u65c5\u9986\u4e1a",
+        "coreCode": "00702"
+      },
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u7ecf\u7406\u4eba\u5458",
+            "coreCode": "0007301"
+          },
+          {
+            "category": "1",
+            "name": "\u4e00\u822c\u5185\u52e4",
+            "coreCode": "0007302"
+          },
+          {
+            "category": "1",
+            "name": "\u67dc\u53f0\u4eba\u5458",
+            "coreCode": "0007303"
+          },
+          {
+            "category": "1",
+            "name": "\u6536\u8d26\u5458",
+            "coreCode": "0007304"
+          },
+          {
+            "category": "2",
+            "name": "\u91c7\u8d2d\u4eba\u5458",
+            "coreCode": "0007305"
+          },
+          {
+            "category": "4",
+            "name": "\u53a8\u5e08",
+            "coreCode": "0007306"
+          },
+          {
+            "category": "2",
+            "name": "\u670d\u52a1\u4eba\u5458",
+            "coreCode": "0007307"
+          }
+        ],
+        "category": "null",
+        "name": "\u9910\u996e\u4e1a",
+        "coreCode": "00703"
+      }
+    ],
+    "category": "null",
+    "name": "\u9910\u65c5\u4e1a",
+    "coreCode": "007"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u5efa\u7b51\u5e08",
+            "coreCode": "0008101"
+          },
+          {
+            "category": "1",
+            "name": "\u5236\u56fe\u5458",
+            "coreCode": "0008102"
+          },
+          {
+            "category": "1",
+            "name": "\u5185\u52e4\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0008103"
+          },
+          {
+            "category": "3",
+            "name": "\u6d4b\u91cf\u5458",
+            "coreCode": "0008104"
+          },
+          {
+            "category": "3",
+            "name": "\u5de5\u7a0b\u5e08",
+            "coreCode": "0008105"
+          },
+          {
+            "category": "3",
+            "name": "\u76d1\u5de5",
+            "coreCode": "0008106"
+          },
+          {
+            "category": "2",
+            "name": "\u4e1a\u52a1\u5458",
+            "coreCode": "0008107"
+          },
+          {
+            "category": "2",
+            "name": "\u5f15\u5bfc\u5458",
+            "coreCode": "0008108"
+          },
+          {
+            "category": "3",
+            "name": "\u5efa\u7b51\u5de5\u4eba\u9886\u73ed\uff08\u4e0d\u53c2\u4e0e\u5de5\u4f5c\uff09",
+            "coreCode": "0008109"
+          },
+          {
+            "category": "6",
+            "name": "\u5efa\u7b51\u6a21\u677f\u5de5",
+            "coreCode": "0008110"
+          },
+          {
+            "category": "3",
+            "name": "\u6728\u5320\uff08\u5ba4\u5185\uff09",
+            "coreCode": "0008111"
+          },
+          {
+            "category": "6",
+            "name": "\u6ce5\u6c34\u5320",
+            "coreCode": "0008112"
+          },
+          {
+            "category": "4",
+            "name": "\u6df7\u51dd\u571f\u6df7\u5408\u673a\u64cd\u4f5c\u5458",
+            "coreCode": "0008113"
+          },
+          {
+            "category": "4",
+            "name": "\u5efa\u7b51\u6cb9\u6f06\u5de5\uff08\u5ba4\u5185\uff09",
+            "coreCode": "0008114"
+          },
+          {
+            "category": "4",
+            "name": "\u5efa\u7b51\u6c34\u7535\u5de5\uff08\u5ba4\u5185\uff09",
+            "coreCode": "0008115"
+          },
+          {
+            "category": "8",
+            "name": "\u94a2\u9aa8\u7ed3\u6784\u5de5\u4eba",
+            "coreCode": "0008116"
+          },
+          {
+            "category": "8",
+            "name": "\u9e70\u67b6\u67b6\u8bbe\u5de5\u4eba",
+            "coreCode": "0008117"
+          },
+          {
+            "category": "5",
+            "name": "\u5efa\u7b51\u710a\u5de5\uff08\u5ba4\u5185\uff09",
+            "coreCode": "0008118"
+          },
+          {
+            "category": "5",
+            "name": "\u5efa\u7b51\u5de5\u7a0b\u8f66\u8f86\u9a7e\u9a76\u5458",
+            "coreCode": "0008119"
+          },
+          {
+            "category": "5",
+            "name": "\u5efa\u7b51\u5de5\u7a0b\u8f66\u8f86\u673a\u68b0\u64cd\u4f5c\u5458",
+            "coreCode": "0008120"
+          },
+          {
+            "category": "5",
+            "name": "\u627f\u5305\u5546\uff08\u571f\u6728\u5efa\u7b51\uff09",
+            "coreCode": "0008121"
+          },
+          {
+            "category": "3",
+            "name": "\u78e8\u77f3\u5de5\u4eba",
+            "coreCode": "0008122"
+          },
+          {
+            "category": "3",
+            "name": "\u6d17\u77f3\u5de5\u4eba",
+            "coreCode": "0008123"
+          },
+          {
+            "category": "5",
+            "name": "\u5b89\u88c5\u5de5\u4eba\uff08\u5ba4\u5916\u53ca\u9ad8\u7a7a)",
+            "coreCode": "0008124"
+          },
+          {
+            "category": "5",
+            "name": "\u94dd\u95e8\u7a97\u88c5\u4fee\u4eba\u5458",
+            "coreCode": "0008125"
+          },
+          {
+            "category": "4",
+            "name": "\u6392\u6c34\u5de5\u7a0b\u4eba\u5458",
+            "coreCode": "0008126"
+          },
+          {
+            "category": "4",
+            "name": "\u9632\u6c34\u5de5\u7a0b\u5458",
+            "coreCode": "0008127"
+          },
+          {
+            "category": "6",
+            "name": "\u6728\u5320(\u5ba4\u5916\u53ca\u9ad8\u7a7a)",
+            "coreCode": "0008128"
+          },
+          {
+            "category": "6",
+            "name": "\u5efa\u7b51\u6cb9\u6f06\u5de5 (\u5ba4\u5916\u53ca\u9ad8\u7a7a)",
+            "coreCode": "0008129"
+          },
+          {
+            "category": "8",
+            "name": "\u5efa\u7b51\u6c34\u7535\u5de5(\u5730\u4e0b)",
+            "coreCode": "0008130"
+          },
+          {
+            "category": "6",
+            "name": "\u5e73\u6c34\u5458",
+            "coreCode": "0008131"
+          },
+          {
+            "category": "8",
+            "name": "\u77ed\u5de5",
+            "coreCode": "0008132"
+          },
+          {
+            "category": "6",
+            "name": "\u5efa\u7b51\u710a\u5de5(\u5ba4\u5916\u53ca\u9ad8\u7a7a)",
+            "coreCode": "0008133"
+          }
+        ],
+        "category": "null",
+        "name": "\u5efa\u7b51\u516c\u53f8\uff08\u571f\u6728\u5de5\u7a0b\uff09",
+        "coreCode": "00801"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u5de5\u7a0b\u5e08",
+            "coreCode": "0008201"
+          },
+          {
+            "category": "3",
+            "name": "\u9886\u73ed,\u76d1\u5de5",
+            "coreCode": "0008202"
+          },
+          {
+            "category": "4",
+            "name": "\u9053\u8def\u5de5\u7a0b\u673a\u68b0\u64cd\u4f5c\u5458",
+            "coreCode": "0008204"
+          },
+          {
+            "category": "4",
+            "name": "\u9053\u8def\u5de5\u7a0b\u8f66\u8f86\u9a7e\u9a76\u5458",
+            "coreCode": "0008205"
+          },
+          {
+            "category": "5",
+            "name": "\u5c71\u5730\u94fa\u8bbe\u5de5\u4eba",
+            "coreCode": "0008206"
+          },
+          {
+            "category": "4",
+            "name": "\u5e73\u5730\u94fa\u8bbe\u5de5\u4eba",
+            "coreCode": "0008207"
+          },
+          {
+            "category": "4",
+            "name": "\u7ef4\u62a4\u5de5\u4eba",
+            "coreCode": "0008208"
+          },
+          {
+            "category": "5",
+            "name": "\u7535\u7ebf\u67b6\u8bbe\u53ca\u7ef4\u62a4\u5de5\u4eba",
+            "coreCode": "0008209"
+          },
+          {
+            "category": "4",
+            "name": "\u7ba1\u9053\u94fa\u8bbe\u53ca\u7ef4\u62a4\u5de5\u4eba",
+            "coreCode": "0008210"
+          },
+          {
+            "category": "5",
+            "name": "\u9ad8\u901f\u516c\u8def\u5de5\u7a0b\u4eba\u5458",
+            "coreCode": "0008211"
+          }
+        ],
+        "category": "null",
+        "name": "\u94c1\u8def\u9053\u8def\u94fa\u8bbe",
+        "coreCode": "00802"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u5de5\u7a0b\u5e08 ",
+            "coreCode": "0008301"
+          },
+          {
+            "category": "4",
+            "name": "\u9886\u73ed,\u76d1\u5de5",
+            "coreCode": "0008302"
+          },
+          {
+            "category": "6",
+            "name": "\u5de5\u4eba",
+            "coreCode": "0008304"
+          }
+        ],
+        "category": "null",
+        "name": "\u9020\u4fee\u8239\u4e1a",
+        "coreCode": "00803"
+      },
+      {
+        "children": [
+          {
+            "category": "6",
+            "name": "\u5b89\u88c5\u5de5\u4eba",
+            "coreCode": "0008401"
+          },
+          {
+            "category": "6",
+            "name": "\u4fee\u7406\u53ca\u7ef4\u62a4\u5de5\u4eba",
+            "coreCode": "0008402"
+          },
+          {
+            "category": "2",
+            "name": "\u64cd\u4f5c\u5458(\u4e0d\u5305\u62ec\u77ff\u573a\u4f7f\u7528\u8005) ",
+            "coreCode": "0008403"
+          }
+        ],
+        "category": "null",
+        "name": "\u7535\u68af\u5347\u964d\u68af",
+        "coreCode": "00804"
+      },
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u8bbe\u8ba1\u5236\u56fe\u4eba\u5458",
+            "coreCode": "0008501"
+          },
+          {
+            "category": "2",
+            "name": "\u5730\u6bef\u4e4b\u88c5\u8bbe\u4eba\u5458",
+            "coreCode": "0008502"
+          },
+          {
+            "category": "4",
+            "name": "\u5ba4\u5185\u88c5\u749c\u4eba\u5458",
+            "coreCode": "0008503"
+          },
+          {
+            "category": "6",
+            "name": "\u5ba4\u5916\u88c5\u749c\u4eba\u5458(\u9ad8\u7a7a)",
+            "coreCode": "0008504"
+          },
+          {
+            "category": "2",
+            "name": "\u627f\u5305\u5546,\u76d1\u5de5",
+            "coreCode": "0008505"
+          }
+        ],
+        "category": "null",
+        "name": "\u88c5\u6f62\u4e1a",
+        "coreCode": "00805"
+      },
+      {
+        "children": [
+          {
+            "category": "4",
+            "name": "\u5730\u8d28\u63a2\u6d4b\u5458(\u5c71\u533a,\u6d77\u4e0a) ",
+            "coreCode": "0008601"
+          },
+          {
+            "category": "2",
+            "name": "\u5730\u8d28\u63a2\u6d4b\u5458(\u5e73\u5730) ",
+            "coreCode": "0008602"
+          },
+          {
+            "category": "4",
+            "name": "\u5de5\u5730\u770b\u5b88\u5458",
+            "coreCode": "0008603"
+          },
+          {
+            "category": "5",
+            "name": "\u6d77\u6e7e\u6e2f\u53e3\u5de5\u7a0b\u4eba\u5458",
+            "coreCode": "0008604"
+          },
+          {
+            "category": "5",
+            "name": "\u6c34\u5229\u5de5\u7a0b\u4eba\u5458",
+            "coreCode": "0008605"
+          },
+          {
+            "category": "5",
+            "name": "\u6865\u6881\u5de5\u7a0b\u4eba\u5458",
+            "coreCode": "0008606"
+          },
+          {
+            "category": "6",
+            "name": "\u96a7\u9053\u5de5\u7a0b\u4eba\u5458",
+            "coreCode": "0008607"
+          },
+          {
+            "category": "8",
+            "name": "\u6f5c\u6c34\u5de5\u7a0b\u4eba\u5458",
+            "coreCode": "0008608"
+          },
+          {
+            "category": "8",
+            "name": "\u7206\u7834\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0008609"
+          },
+          {
+            "category": "5",
+            "name": "\u6316\u6ce5\u8239\u5de5\u4eba",
+            "coreCode": "0008610"
+          }
+        ],
+        "category": "null",
+        "name": "\u5176\u4ed6",
+        "coreCode": "00806"
+      }
+    ],
+    "category": "null",
+    "name": "\u5efa\u7b51\u5de5\u7a0b\u4e1a",
+    "coreCode": "008"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u6280\u5e08",
+            "coreCode": "0009101"
+          },
+          {
+            "category": "3",
+            "name": "\u5de5\u7a0b\u5e08",
+            "coreCode": "0009102"
+          },
+          {
+            "category": "3",
+            "name": "\u9886\u73ed,\u76d1\u5de5",
+            "coreCode": "0009103"
+          },
+          {
+            "category": "3",
+            "name": "\u5de5\u4eba",
+            "coreCode": "0009104"
+          }
+        ],
+        "category": "null",
+        "name": "\u94a2\u94c1\u4e1a",
+        "coreCode": "00901"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u9886\u73ed",
+            "coreCode": "0009201"
+          },
+          {
+            "category": "4",
+            "name": "\u677f\u91d1\u5de5",
+            "coreCode": "0009202"
+          },
+          {
+            "category": "4",
+            "name": "\u88c5\u914d\u5de5",
+            "coreCode": "0009205"
+          },
+          {
+            "category": "5",
+            "name": "\u710a\u63a5\u5de5",
+            "coreCode": "0009206"
+          },
+          {
+            "category": "5",
+            "name": "\u8f66\u5e8a\u5de5(\u5168\u81ea\u52a8) ",
+            "coreCode": "0009207"
+          },
+          {
+            "category": "5",
+            "name": "\u8f66\u5e8a\u5de5(\u5176\u4ed6) ",
+            "coreCode": "0009208"
+          },
+          {
+            "category": "5",
+            "name": "\u94f8\u9020\u5de5",
+            "coreCode": "0009209"
+          },
+          {
+            "category": "5",
+            "name": "\u9505\u7089\u5de5",
+            "coreCode": "0009210"
+          },
+          {
+            "category": "4",
+            "name": "\u6c34\u7535\u5de5",
+            "coreCode": "0009211"
+          },
+          {
+            "category": "4",
+            "name": "\u94c5\u5b57\u94f8\u9020\u5de5",
+            "coreCode": "0009212"
+          },
+          {
+            "category": "5",
+            "name": "\u94c1\u5de5\u5382\u5de5\u4eba",
+            "coreCode": "0009213"
+          },
+          {
+            "category": "5",
+            "name": "\u673a\u68b0\u5382\u5de5\u4eba",
+            "coreCode": "0009214"
+          },
+          {
+            "category": "4",
+            "name": "\u7535\u9540\u5de5",
+            "coreCode": "0009215"
+          },
+          {
+            "category": "5",
+            "name": "\u94e3\u5e8a\u5de5",
+            "coreCode": "0009216"
+          },
+          {
+            "category": "5",
+            "name": "\u526a\u5e8a\u5de5",
+            "coreCode": "0009217"
+          },
+          {
+            "category": "5",
+            "name": "\u51b2\u5e8a\u5de5",
+            "coreCode": "0009218"
+          }
+        ],
+        "category": "null",
+        "name": "\u94c1\u5de5\u5382\uff0c\u673a\u68b0\u5382",
+        "coreCode": "00902"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u5de5\u7a0b\u5e08(\u8d1f\u8d23\u4eba)",
+            "coreCode": "0009301"
+          },
+          {
+            "category": "2",
+            "name": "\u6280\u5e08",
+            "coreCode": "0009302"
+          },
+          {
+            "category": "2",
+            "name": "\u9886\u73ed,\u76d1\u5de5",
+            "coreCode": "0009303"
+          },
+          {
+            "category": "2",
+            "name": "\u5de5\u7a0b\u5e08",
+            "coreCode": "0009304"
+          },
+          {
+            "category": "2",
+            "name": "\u88c5\u914d\u5de5",
+            "coreCode": "0009305"
+          },
+          {
+            "category": "3",
+            "name": "\u4fee\u7406\u5de5",
+            "coreCode": "0009306"
+          },
+          {
+            "category": "2",
+            "name": "\u5305\u88c5\u5de5\u4eba",
+            "coreCode": "0009307"
+          },
+          {
+            "category": "3",
+            "name": "\u5236\u9020\u5de5",
+            "coreCode": "0009308"
+          }
+        ],
+        "category": "null",
+        "name": "\u7535\u5b50\u4e1a",
+        "coreCode": "00903"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u5de5\u7a0b\u5e08",
+            "coreCode": "0009401"
+          },
+          {
+            "category": "3",
+            "name": "\u6280\u5e08",
+            "coreCode": "0009402"
+          },
+          {
+            "category": "3",
+            "name": "\u9886\u73ed,\u76d1\u5de5",
+            "coreCode": "0009403"
+          },
+          {
+            "category": "6",
+            "name": "\u7a7a\u8c03\u88c5\u4fee\u4eba\u5458(\u9ad8\u7a7a)",
+            "coreCode": "0009404"
+          },
+          {
+            "category": "8",
+            "name": "\u6709\u5173\u9ad8\u538b\u7535\u4e4b\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0009405"
+          },
+          {
+            "category": "4",
+            "name": "\u51b7\u51bb\u4fee\u7406\u5de5\u53ca\u5ba4\u5185\u7a7a\u8c03\u88c5\u4fee\u5458",
+            "coreCode": "0009406"
+          }
+        ],
+        "category": "null",
+        "name": "\u7535\u673a\u4e1a",
+        "coreCode": "00904"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u5de5\u7a0b\u5e08",
+            "coreCode": "0009501"
+          },
+          {
+            "category": "2",
+            "name": "\u6280\u5e08",
+            "coreCode": "0009502"
+          },
+          {
+            "category": "2",
+            "name": "\u9886\u73ed,\u76d1\u5de5",
+            "coreCode": "0009503"
+          },
+          {
+            "category": "3",
+            "name": "\u4e00\u822c\u5de5\u4eba",
+            "coreCode": "0009505"
+          },
+          {
+            "category": "3",
+            "name": "\u5851\u80f6\u5c04\u51fa\u6210\u578b\u5de5\u4eba(\u81ea\u52a8)",
+            "coreCode": "0009506"
+          },
+          {
+            "category": "4",
+            "name": "\u5851\u80f6\u5c04\u51fa\u6210\u578b\u5de5\u4eba(\u5176\u4ed6)",
+            "coreCode": "0009507"
+          }
+        ],
+        "category": "null",
+        "name": "\u5851\u80f6\uff0c\u6a61\u80f6\u4e1a",
+        "coreCode": "00905"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u5de5\u7a0b\u5e08",
+            "coreCode": "0009601"
+          },
+          {
+            "category": "2",
+            "name": "\u6280\u5e08",
+            "coreCode": "0009602"
+          },
+          {
+            "category": "3",
+            "name": "\u9886\u73ed,\u76d1\u5de5",
+            "coreCode": "0009603"
+          },
+          {
+            "category": "4",
+            "name": "\u5de5\u4eba",
+            "coreCode": "0009604"
+          },
+          {
+            "category": "5",
+            "name": "\u91c7\u6398\u5de5",
+            "coreCode": "0009606"
+          }
+        ],
+        "category": "null",
+        "name": "\u6c34\u6ce5\u4e1a",
+        "coreCode": "00906"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u5de5\u7a0b\u5e08",
+            "coreCode": "0009701"
+          },
+          {
+            "category": "2",
+            "name": "\u6280\u5e08",
+            "coreCode": "0009702"
+          },
+          {
+            "category": "3",
+            "name": "\u4e00\u822c\u5de5\u4eba",
+            "coreCode": "0009703"
+          },
+          {
+            "category": "8",
+            "name": "\u786b\u9178,\u76d0\u9178,\u785d\u9178\u5236\u9020\u5de5",
+            "coreCode": "0009704"
+          },
+          {
+            "category": "3",
+            "name": "\u7535\u6c60\u5236\u9020(\u6280\u5e08)",
+            "coreCode": "0009705"
+          },
+          {
+            "category": "4",
+            "name": "\u7535\u6c60\u5236\u9020(\u5de5\u4eba)",
+            "coreCode": "0009706"
+          },
+          {
+            "category": "5",
+            "name": "\u6db2\u5316\u6c14\u4f53\u5236\u9020\u5de5",
+            "coreCode": "0009707"
+          }
+        ],
+        "category": "null",
+        "name": "\u5316\u5b66\u539f\u6599\u4e1a",
+        "coreCode": "00907"
+      },
+      {
+        "children": [
+          {
+            "category": "8",
+            "name": "\u706b\u836f\u7206\u7af9\u5236\u9020\u53ca\u5904\u7406\u4eba",
+            "coreCode": "0009801"
+          }
+        ],
+        "category": "null",
+        "name": "\u70b8\u836f\u4e1a",
+        "coreCode": "00908"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u5de5\u7a0b\u5e08",
+            "coreCode": "0009901"
+          },
+          {
+            "category": "2",
+            "name": "\u6280\u5e08",
+            "coreCode": "0009902"
+          },
+          {
+            "category": "4",
+            "name": "\u5236\u9020\u5de5\u4eba(\u6c7d,\u673a\u8f66)",
+            "coreCode": "0009903"
+          },
+          {
+            "category": "3",
+            "name": "\u5236\u9020\u5de5\u4eba(\u81ea\u884c\u8f66)",
+            "coreCode": "0009904"
+          },
+          {
+            "category": "4",
+            "name": "\u4fee\u7406\u4fdd\u517b\u5de5\u4eba(\u6c7d,\u673a\u8f66)",
+            "coreCode": "0009905"
+          },
+          {
+            "category": "3",
+            "name": "\u4fee\u7406\u4fdd\u517b\u5de5\u4eba(\u81ea\u884c\u8f66)",
+            "coreCode": "0009906"
+          },
+          {
+            "category": "2",
+            "name": "\u9886\u73ed,\u76d1\u5de5",
+            "coreCode": "0009907"
+          },
+          {
+            "category": "4",
+            "name": "\u8bd5\u8f66\u4eba\u5458",
+            "coreCode": "0009908"
+          }
+        ],
+        "category": "null",
+        "name": "\u6c7d\u8f66\uff0c\u673a\u8f66\uff0c\u81ea\u884c\u8f66\u5236\u9020\u4fee\u4e1a",
+        "coreCode": "00910"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u5de5\u7a0b\u5e08",
+            "coreCode": "0009909"
+          },
+          {
+            "category": "1",
+            "name": "\u8bbe\u8ba1\u5e08",
+            "coreCode": "0009910"
+          },
+          {
+            "category": "2",
+            "name": "\u6280\u5e08",
+            "coreCode": "0009911"
+          },
+          {
+            "category": "2",
+            "name": "\u5236\u9020\u5de5\u4eba",
+            "coreCode": "0009912"
+          },
+          {
+            "category": "3",
+            "name": "\u67d3\u6574\u5de5\u4eba",
+            "coreCode": "0009913"
+          }
+        ],
+        "category": "null",
+        "name": "\u7eba\u7ec7\u53ca\u6210\u8863\u4e1a",
+        "coreCode": "00911"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u6280\u5e08",
+            "coreCode": "0009914"
+          },
+          {
+            "category": "3",
+            "name": "\u76d1\u5de5",
+            "coreCode": "0009915"
+          },
+          {
+            "category": "4",
+            "name": "\u9020\u7eb8\u5382\u5de5\u4eba",
+            "coreCode": "0009916"
+          },
+          {
+            "category": "5",
+            "name": "\u7eb8\u6d46\u5382\u5de5\u4eba",
+            "coreCode": "0009917"
+          },
+          {
+            "category": "4",
+            "name": "\u7eb8\u7bb1\u5236\u9020\u5de5\u4eba",
+            "coreCode": "0009918"
+          }
+        ],
+        "category": "null",
+        "name": "\u9020\u7eb8\u5de5\u4e1a",
+        "coreCode": "00912"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u6280\u5e08",
+            "coreCode": "0009919"
+          },
+          {
+            "category": "3",
+            "name": "\u9886\u73ed,\u76d1\u5de5",
+            "coreCode": "0009920"
+          },
+          {
+            "category": "3",
+            "name": "\u6728\u5236\u5bb6\u4ff1\u5236\u9020\u5de5\u4eba",
+            "coreCode": "0009921"
+          },
+          {
+            "category": "3",
+            "name": "\u6728\u5236\u5bb6\u4ff1\u5236\u9020\u4fee\u7406\u5de5",
+            "coreCode": "0009922"
+          },
+          {
+            "category": "4",
+            "name": "\u91d1\u5c5e\u5bb6\u4ff1\u5236\u9020\u5de5\u4eba",
+            "coreCode": "0009923"
+          },
+          {
+            "category": "3",
+            "name": "\u91d1\u5c5e\u5bb6\u4ff1\u5236\u4fee\u7406\u5de5",
+            "coreCode": "0009924"
+          }
+        ],
+        "category": "null",
+        "name": "\u5bb6\u5177\u5236\u9020\u4e1a",
+        "coreCode": "00913"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u7af9\u6728\u5236\u624b\u5de5\u827a\u54c1\u52a0\u5de5\u5de5\u4eba",
+            "coreCode": "0009925"
+          },
+          {
+            "category": "3",
+            "name": "\u7af9\u6728\u5236\u624b\u5de5\u827a\u54c1\u96d5\u523b\u5de5\u4eba",
+            "coreCode": "0009926"
+          },
+          {
+            "category": "3",
+            "name": "\u91d1\u5c5e\u624b\u5de5\u827a\u54c1\u52a0\u5de5\u5de5\u4eba",
+            "coreCode": "0009927"
+          },
+          {
+            "category": "3",
+            "name": "\u91d1\u5c5e\u624b\u5de5\u827a\u54c1\u96d5\u523b\u5de5\u4eba",
+            "coreCode": "0009928"
+          },
+          {
+            "category": "1",
+            "name": "\u5e03\u7c7b\u5236\u54c1\u5de5\u827a\u54c1\u52a0\u5de5\u5de5\u4eba",
+            "coreCode": "0009929"
+          },
+          {
+            "category": "3",
+            "name": "\u77ff\u77f3\u624b\u5de5\u827a\u54c1\u52a0\u5de5\u4eba\u5458",
+            "coreCode": "0009930"
+          }
+        ],
+        "category": "null",
+        "name": "\u624b\u5de5\u4e1a\u54c1\u4e1a",
+        "coreCode": "00914"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u6280\u5e08",
+            "coreCode": "0009931"
+          },
+          {
+            "category": "4",
+            "name": "\u5de5\u4eba",
+            "coreCode": "0009932"
+          }
+        ],
+        "category": "null",
+        "name": "\u7535\u7ebf\u7535\u7f06\u4e1a",
+        "coreCode": "00915"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u51b0\u5757\u5236\u9020",
+            "coreCode": "0009933"
+          },
+          {
+            "category": "2",
+            "name": "\u6280\u5e08",
+            "coreCode": "0009934"
+          },
+          {
+            "category": "3",
+            "name": "\u5236\u9020\u5de5\u4eba",
+            "coreCode": "0009935"
+          },
+          {
+            "category": "3",
+            "name": "\u78be\u7c73\u5382\u64cd\u4f5c\u4eba\u5458",
+            "coreCode": "0009936"
+          }
+        ],
+        "category": "null",
+        "name": "\u98df\u54c1\u996e\u6599\u5236\u9020\u4e1a",
+        "coreCode": "00916"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6280\u5e08",
+            "coreCode": "0009937"
+          },
+          {
+            "category": "4",
+            "name": "\u4e00\u822c\u5236\u9020\u5de5\u4eba",
+            "coreCode": "0009938"
+          },
+          {
+            "category": "3",
+            "name": "\u88c5\u914d\u5de5",
+            "coreCode": "0009939"
+          },
+          {
+            "category": "3",
+            "name": "\u5305\u88c5\u5de5",
+            "coreCode": "0009940"
+          },
+          {
+            "category": "5",
+            "name": "\u710a\u63a5\u5de5",
+            "coreCode": "0009941"
+          },
+          {
+            "category": "5",
+            "name": "\u51b2\u5e8a\u5de5",
+            "coreCode": "0009942"
+          },
+          {
+            "category": "5",
+            "name": "\u526a\u5e8a\u5de5",
+            "coreCode": "0009943"
+          },
+          {
+            "category": "5",
+            "name": "\u94e3\u5e8a\u5de5",
+            "coreCode": "0009944"
+          },
+          {
+            "category": "5",
+            "name": "\u94f8\u9020\u5de5",
+            "coreCode": "0009945"
+          },
+          {
+            "category": "4",
+            "name": "\u8f66\u5e8a\u5de5(\u5168\u81ea\u52a8) ",
+            "coreCode": "0009946"
+          },
+          {
+            "category": "5",
+            "name": "\u8f66\u5e8a\u5de5(\u5176\u4ed6) ",
+            "coreCode": "0009947"
+          }
+        ],
+        "category": "null",
+        "name": "\u5bb6\u7535\u5236\u9020\u4e1a",
+        "coreCode": "00917"
+      }
+    ],
+    "category": "null",
+    "name": "\u5236\u9020\u4e1a",
+    "coreCode": "009"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u5185\u52e4\u4eba\u5458",
+            "coreCode": "0010101"
+          },
+          {
+            "category": "2",
+            "name": "\u5916\u52e4\u8bb0\u8005",
+            "coreCode": "0010102"
+          },
+          {
+            "category": "2",
+            "name": "\u6444\u5f71\u8bb0\u8005",
+            "coreCode": "0010103"
+          },
+          {
+            "category": "8",
+            "name": "\u6218\u5730\u8bb0\u8005",
+            "coreCode": "0010104"
+          },
+          {
+            "category": "2",
+            "name": "\u63a8\u9500\u5458",
+            "coreCode": "0010105"
+          },
+          {
+            "category": "2",
+            "name": "\u6392\u7248\u5de5",
+            "coreCode": "0010106"
+          },
+          {
+            "category": "2",
+            "name": "\u88c5\u8ba2\u5de5",
+            "coreCode": "0010107"
+          },
+          {
+            "category": "2",
+            "name": "\u5370\u5237\u5de5",
+            "coreCode": "0010108"
+          },
+          {
+            "category": "2",
+            "name": "\u9001\u8d27\u5458",
+            "coreCode": "0010109"
+          },
+          {
+            "category": "3",
+            "name": "\u9001\u62a5\u5458",
+            "coreCode": "0010110"
+          }
+        ],
+        "category": "null",
+        "name": "\u65b0\u95fb\u4e1a\uff0c\u6742\u5fd7\u4e1a",
+        "coreCode": "01001"
+      },
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u4e00\u822c\u5185\u52e4",
+            "coreCode": "0010201"
+          },
+          {
+            "category": "2",
+            "name": "\u4e1a\u52a1\u5458",
+            "coreCode": "0010202"
+          },
+          {
+            "category": "2",
+            "name": "\u5e7f\u544a\u5f71\u7247\u62cd\u6444\u5f55\u5236\u4eba\u5458",
+            "coreCode": "0010204"
+          },
+          {
+            "category": "6",
+            "name": "\u5e7f\u544a\u62db\u724c\u5236\u4f5c\u67b6\u8bbe\u4eba\u5458",
+            "coreCode": "0010205"
+          }
+        ],
+        "category": "null",
+        "name": "\u5e7f\u544a\u4e1a",
+        "coreCode": "01002"
+      }
+    ],
+    "category": "null",
+    "name": "\u65b0\u95fb\u5e7f\u544a\u4e1a",
+    "coreCode": "010"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u4e00\u822c\u533b\u52a1\u884c\u653f\u4eba\u5458",
+            "coreCode": "0011101"
+          },
+          {
+            "category": "1",
+            "name": "\u4e00\u822c\u533b\u5e08\u53ca\u62a4\u58eb",
+            "coreCode": "0011102"
+          },
+          {
+            "category": "3",
+            "name": "\u7cbe\u795e\u75c5\u533b\u5e08,\u770b\u62a4,\u62a4\u58eb",
+            "coreCode": "0011103"
+          },
+          {
+            "category": "2",
+            "name": "\u517d\u533b",
+            "coreCode": "0011104"
+          },
+          {
+            "category": "2",
+            "name": "\u533b\u9662\u708a\u4e8b",
+            "coreCode": "0011105"
+          },
+          {
+            "category": "2",
+            "name": "\u6742\u5de5",
+            "coreCode": "0011106"
+          },
+          {
+            "category": "2",
+            "name": "\u6e05\u6d01\u5de5",
+            "coreCode": "0011107"
+          }
+        ],
+        "category": "null",
+        "name": "\u533b\u9662",
+        "coreCode": "01101"
+      },
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u75c5\u7406\u68c0\u67e5\u5458",
+            "coreCode": "0011201"
+          },
+          {
+            "category": "1",
+            "name": "\u5206\u6790\u5458",
+            "coreCode": "0011202"
+          },
+          {
+            "category": "3",
+            "name": "\u653e\u5c04\u7ebf\u4e4b\u6280\u672f\u4eba\u5458",
+            "coreCode": "0011203"
+          },
+          {
+            "category": "4",
+            "name": "\u653e\u5c04\u7ebf\u4e4b\u4fee\u62a4\u4eba\u5458",
+            "coreCode": "0011204"
+          },
+          {
+            "category": "2",
+            "name": "\u52a9\u4ea7\u5e08",
+            "coreCode": "0011205"
+          },
+          {
+            "category": "2",
+            "name": "\u8dcc\u6253\u635f\u4f24\u6cbb\u7597\u4eba\u5458",
+            "coreCode": "0011206"
+          },
+          {
+            "category": "3",
+            "name": "\u76d1\u72f1,\u770b\u5b88\u6240\u533b\u751f,\u62a4\u7406\u4eba\u5458",
+            "coreCode": "0011207"
+          }
+        ],
+        "category": "null",
+        "name": "\u4fdd\u5065\u4eba\u5458",
+        "coreCode": "01102"
+      }
+    ],
+    "category": "null",
+    "name": "\u536b\u751f\u3001\u4fdd\u5065\u4e1a",
+    "coreCode": "011"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u5236\u7247\u4eba",
+            "coreCode": "0012101"
+          },
+          {
+            "category": "1",
+            "name": "\u5f71\u7247\u5546",
+            "coreCode": "0012102"
+          },
+          {
+            "category": "1",
+            "name": "\u7f16\u5267",
+            "coreCode": "0012103"
+          },
+          {
+            "category": "2",
+            "name": "\u4e00\u822c\u6f14\u5458(\u5bfc\u6f14)",
+            "coreCode": "0012104"
+          },
+          {
+            "category": "5",
+            "name": "\u6b66\u6253\u6f14\u5458",
+            "coreCode": "0012105"
+          },
+          {
+            "category": "8",
+            "name": "\u7279\u6280\u6f14\u5458",
+            "coreCode": "0012106"
+          },
+          {
+            "category": "1",
+            "name": "\u5316\u5986\u5e08",
+            "coreCode": "0012107"
+          },
+          {
+            "category": "2",
+            "name": "\u573a\u8bb0",
+            "coreCode": "0012108"
+          },
+          {
+            "category": "2",
+            "name": "\u6444\u5f71\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0012109"
+          },
+          {
+            "category": "2",
+            "name": "\u706f\u5149\u53ca\u97f3\u54cd\u6548\u679c\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0012110"
+          },
+          {
+            "category": "2",
+            "name": "\u51b2\u7247\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0012111"
+          },
+          {
+            "category": "2",
+            "name": "\u6d17\u7247\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0012112"
+          },
+          {
+            "category": "2",
+            "name": "\u7535\u89c6\u8bb0\u8005",
+            "coreCode": "0012113"
+          },
+          {
+            "category": "4",
+            "name": "\u673a\u68b0\u5de5,\u7535\u5de5",
+            "coreCode": "0012114"
+          },
+          {
+            "category": "4",
+            "name": "\u5e03\u666f\u642d\u8bbe\u4eba\u5458",
+            "coreCode": "0012115"
+          },
+          {
+            "category": "1",
+            "name": "\u7535\u5f71\u9662\u552e\u7968\u5458",
+            "coreCode": "0012116"
+          },
+          {
+            "category": "2",
+            "name": "\u7535\u5f71\u9662\u653e\u6620\u4eba\u5458",
+            "coreCode": "0012117"
+          },
+          {
+            "category": "2",
+            "name": "\u7535\u5f71\u9662\u670d\u52a1\u4eba\u5458",
+            "coreCode": "0012118"
+          }
+        ],
+        "category": "null",
+        "name": "\u7535\u5f71\u4e1a\uff0c\u7535\u89c6\u4e1a",
+        "coreCode": "01201"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0012201"
+          },
+          {
+            "category": "2",
+            "name": "\u7403\u573a\u4fdd\u517b\u5de5\u4eba",
+            "coreCode": "0012202"
+          },
+          {
+            "category": "2",
+            "name": "\u7ef4\u62a4\u5de5\u4eba",
+            "coreCode": "0012203"
+          },
+          {
+            "category": "2",
+            "name": "\u7403\u7ae5",
+            "coreCode": "0012204"
+          }
+        ],
+        "category": "null",
+        "name": "\u9ad8\u5c14\u592b\u7403\u573a",
+        "coreCode": "01202"
+      },
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u8bb0\u5206\u5458",
+            "coreCode": "0012301"
+          },
+          {
+            "category": "1",
+            "name": "\u67dc\u53f0\u4eba\u5458",
+            "coreCode": "0012302"
+          },
+          {
+            "category": "3",
+            "name": "\u673a\u68b0\u4fee\u62a4\u5de5\u4eba",
+            "coreCode": "0012303"
+          },
+          {
+            "category": "2",
+            "name": "\u6e05\u6d01\u5de5\u4eba",
+            "coreCode": "0012304"
+          }
+        ],
+        "category": "null",
+        "name": "\u4fdd\u9f84\u7403\u9986",
+        "coreCode": "01203"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u8d1f\u8d23\u4eba",
+            "coreCode": "0012401"
+          },
+          {
+            "category": "2",
+            "name": "\u8bb0\u5206\u5458",
+            "coreCode": "0012402"
+          }
+        ],
+        "category": "null",
+        "name": "\u649e\u7403\u9986",
+        "coreCode": "01204"
+      },
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u8d1f\u8d23\u4eba",
+            "coreCode": "0012501"
+          },
+          {
+            "category": "1",
+            "name": "\u7ba1\u7406\u5458",
+            "coreCode": "0012502"
+          },
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0012503"
+          },
+          {
+            "category": "1",
+            "name": "\u552e\u7968\u5458",
+            "coreCode": "0012504"
+          },
+          {
+            "category": "4",
+            "name": "\u6551\u751f\u5458",
+            "coreCode": "0012505"
+          }
+        ],
+        "category": "null",
+        "name": "\u6e38\u6cf3\u6c60",
+        "coreCode": "01205"
+      },
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u8d1f\u8d23\u4eba",
+            "coreCode": "0012601"
+          },
+          {
+            "category": "1",
+            "name": "\u7ba1\u7406\u5458",
+            "coreCode": "0012602"
+          },
+          {
+            "category": "1",
+            "name": "\u552e\u7968\u5458",
+            "coreCode": "0012603"
+          },
+          {
+            "category": "5",
+            "name": "\u6551\u751f\u5458",
+            "coreCode": "0012604"
+          }
+        ],
+        "category": "null",
+        "name": "\u6d77\u6c34\u6d74\u573a",
+        "coreCode": "01206"
+      },
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u8d1f\u8d23\u4eba",
+            "coreCode": "0012701"
+          },
+          {
+            "category": "1",
+            "name": "\u552e\u7968\u5458",
+            "coreCode": "0012702"
+          },
+          {
+            "category": "2",
+            "name": "\u7535\u52a8\u73a9\u5177\u64cd\u4f5c\u5458",
+            "coreCode": "0012703"
+          },
+          {
+            "category": "2",
+            "name": "\u4e00\u822c\u6e05\u6d01\u5de5",
+            "coreCode": "0012704"
+          },
+          {
+            "category": "4",
+            "name": "\u517d\u680f\u6e05\u6d01\u5de5",
+            "coreCode": "0012705"
+          },
+          {
+            "category": "4",
+            "name": "\u6c34\u7535\u673a\u68b0\u5de5",
+            "coreCode": "0012706"
+          },
+          {
+            "category": "8",
+            "name": "\u52a8\u7269\u56ed\u9a6f\u517d\u5e08",
+            "coreCode": "0012707"
+          },
+          {
+            "category": "6",
+            "name": "\u9972\u517b\u4eba\u5458",
+            "coreCode": "0012708"
+          },
+          {
+            "category": "2",
+            "name": "\u517d\u533b\uff08\u52a8\u7269\u56ed\uff09",
+            "coreCode": "0012709"
+          }
+        ],
+        "category": "null",
+        "name": "\u5176\u4ed6\u6e38\u4e50\u56ed",
+        "coreCode": "01207"
+      },
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u4f5c\u66f2\u4eba\u5458",
+            "coreCode": "0012801"
+          },
+          {
+            "category": "1",
+            "name": "\u7f16\u66f2\u4eba\u5458",
+            "coreCode": "0012802"
+          },
+          {
+            "category": "1",
+            "name": "\u6f14\u594f\u4eba\u5458",
+            "coreCode": "0012803"
+          },
+          {
+            "category": "1",
+            "name": "\u7ed8\u753b\u4eba\u5458",
+            "coreCode": "0012804"
+          },
+          {
+            "category": "2",
+            "name": "\u821e\u8e48\u6f14\u827a\u4eba\u5458",
+            "coreCode": "0012805"
+          },
+          {
+            "category": "2",
+            "name": "\u96d5\u5851\u4eba\u5458",
+            "coreCode": "0012806"
+          },
+          {
+            "category": "2",
+            "name": "\u620f\u5267\u6f14\u5458",
+            "coreCode": "0012807"
+          },
+          {
+            "category": "3",
+            "name": "\u5de1\u56de\u6f14\u51fa\u620f\u5267\u56e2\u4f53\u4eba\u5458",
+            "coreCode": "0012808"
+          },
+          {
+            "category": "1",
+            "name": "\u4f5c\u5bb6",
+            "coreCode": "0012809"
+          }
+        ],
+        "category": "null",
+        "name": "\u827a\u672f\u53ca\u6f14\u827a\u4eba\u5458",
+        "coreCode": "01208"
+      },
+      {
+        "children": [
+          {
+            "category": "4",
+            "name": "\u5496\u5561\u5385\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0012901"
+          },
+          {
+            "category": "4",
+            "name": "\u8336\u5ba4\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0012902"
+          },
+          {
+            "category": "2",
+            "name": "\u9152\u5bb6\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0012903"
+          },
+          {
+            "category": "4",
+            "name": "\u821e\u5385\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0012905"
+          },
+          {
+            "category": "4",
+            "name": "\u6b4c\u5385\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0012906"
+          },
+          {
+            "category": "4",
+            "name": "\u9152\u5427\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0012907"
+          },
+          {
+            "category": "3",
+            "name": "\u8d1f\u8d23\u4eba",
+            "coreCode": "0012908"
+          }
+        ],
+        "category": "null",
+        "name": "\u7279\u79cd\u8425\u4e1a",
+        "coreCode": "01209"
+      }
+    ],
+    "category": "null",
+    "name": "\u5a31\u4e50\u4e1a",
+    "coreCode": "012"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u6559\u5e08",
+            "coreCode": "0013101"
+          },
+          {
+            "category": "1",
+            "name": "\u5b66\u751f",
+            "coreCode": "0013102"
+          },
+          {
+            "category": "2",
+            "name": "\u6821\u5de5",
+            "coreCode": "0013103"
+          },
+          {
+            "category": "2",
+            "name": "\u4f53\u80b2\u6559\u5e08",
+            "coreCode": "0013104"
+          },
+          {
+            "category": "2",
+            "name": "\u519b\u8bad\u6559\u5b98",
+            "coreCode": "0013105"
+          }
+        ],
+        "category": "null",
+        "name": "\u6559\u80b2\u673a\u6784",
+        "coreCode": "01301"
+      },
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u8d1f\u8d23\u4eba",
+            "coreCode": "0013201"
+          },
+          {
+            "category": "1",
+            "name": "\u5e97\u5458",
+            "coreCode": "0013202"
+          },
+          {
+            "category": "2",
+            "name": "\u5916\u52a1\u5458",
+            "coreCode": "0013203"
+          },
+          {
+            "category": "2",
+            "name": "\u9001\u8d27\u5458",
+            "coreCode": "0013204"
+          },
+          {
+            "category": "1",
+            "name": "\u56fe\u4e66\u9986\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0013205"
+          },
+          {
+            "category": "1",
+            "name": "\u535a\u7269\u9986\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0013206"
+          },
+          {
+            "category": "3",
+            "name": "\u6c7d\u8f66\u9a7e\u9a76\u8bad\u7ec3\u73ed\u6559\u7ec3",
+            "coreCode": "0013207"
+          }
+        ],
+        "category": "null",
+        "name": "\u5176\u4ed6",
+        "coreCode": "01302"
+      }
+    ],
+    "category": "null",
+    "name": "\u6587\u6559\u673a\u5173",
+    "coreCode": "013"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u5bfa\u5e99\u53ca\u6559\u5802\u7ba1\u7406\u4eba\u5458",
+            "coreCode": "0014001"
+          },
+          {
+            "category": "1",
+            "name": "\u5b97\u6559\u56e2\u4f53\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0014002"
+          },
+          {
+            "category": "1",
+            "name": "\u50e7\u5c3c\uff0c\u9053\u58eb\u53ca\u4f20\u6559\u4eba\u5458",
+            "coreCode": "0014003"
+          }
+        ],
+        "category": "null",
+        "name": "\u5b97\u6559\u4eba\u58eb",
+        "coreCode": "01401"
+      }
+    ],
+    "category": "null",
+    "name": "\u5b97\u6559\u56e2\u4f53",
+    "coreCode": "014"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u5185\u52e4\u4eba\u5458",
+            "coreCode": "0015101"
+          },
+          {
+            "category": "2",
+            "name": "\u5916\u52e4\u90ae\u52a1\u4eba\u5458",
+            "coreCode": "0015102"
+          },
+          {
+            "category": "2",
+            "name": "\u5305\u88f9\u642c\u8fd0\u4eba\u5458",
+            "coreCode": "0015103"
+          }
+        ],
+        "category": "null",
+        "name": "\u90ae\u653f",
+        "coreCode": "01501"
+      },
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u5185\u52e4\u4eba\u5458",
+            "coreCode": "0015201"
+          },
+          {
+            "category": "2",
+            "name": "\u6284\u8868\u5458\uff0c\u6536\u8d39\u5458",
+            "coreCode": "0015202"
+          },
+          {
+            "category": "3",
+            "name": "\u7535\u4fe1\u88c5\u7f6e\u7ef4\u62a4\u4fee\u7406\u5de5",
+            "coreCode": "0015203"
+          },
+          {
+            "category": "4",
+            "name": "\u7535\u529b\u88c5\u7f6e\u7ef4\u62a4\u4fee\u7406\u5de5",
+            "coreCode": "0015204"
+          },
+          {
+            "category": "5",
+            "name": "\u7535\u529b\u5de5\u7a0b\u8bbe\u65bd\u4e4b\u67b6\u8bbe\u4eba\u5458",
+            "coreCode": "0015206"
+          },
+          {
+            "category": "8",
+            "name": "\u7535\u529b\u9ad8\u538b\u7535\u5de5\u7a0b\u8bbe\u65bd\u4eba\u5458",
+            "coreCode": "0015207"
+          },
+          {
+            "category": "5",
+            "name": "\u7535\u53f0\u5929\u7ebf\u7ef4\u62a4\u4eba\u5458",
+            "coreCode": "0015208"
+          }
+        ],
+        "category": "null",
+        "name": "\u7535\u4fe1\u53ca\u7535\u529b",
+        "coreCode": "01502"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u5de5\u7a0b\u5e08",
+            "coreCode": "0015301"
+          },
+          {
+            "category": "3",
+            "name": "\u6c34\u575d\u3001\u6c34\u5e93\u7ba1\u7406\u4eba\u5458",
+            "coreCode": "0015302"
+          },
+          {
+            "category": "4",
+            "name": "\u6c34\u5229\u5de5\u7a0b\u8bbe\u65bd\u4eba\u5458",
+            "coreCode": "0015303"
+          },
+          {
+            "category": "3",
+            "name": "\u81ea\u6765\u6c34\u7ba1\u88c5\u4fee\u4eba\u5458",
+            "coreCode": "0015304"
+          },
+          {
+            "category": "2",
+            "name": "\u6284\u8868\u5458\uff0c\u6536\u8d39\u5458",
+            "coreCode": "0015305"
+          },
+          {
+            "category": "3",
+            "name": "\u81ea\u6765\u6c34\u5382\u6c34\u8d28\u5206\u6790\u5458\uff08\u5b9e\u5730\uff09",
+            "coreCode": "0015306"
+          }
+        ],
+        "category": "null",
+        "name": "\u81ea\u6765\u6c34\uff08\u6c34\u5229\uff09",
+        "coreCode": "01503"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u5de5\u7a0b\u5e08",
+            "coreCode": "0015401"
+          },
+          {
+            "category": "4",
+            "name": "\u7ba1\u7ebf\u88c5\u4fee\u5de5",
+            "coreCode": "0015402"
+          },
+          {
+            "category": "2",
+            "name": "\u6536\u8d39\u5458\uff0c\u6284\u8868\u5458",
+            "coreCode": "0015403"
+          },
+          {
+            "category": "2",
+            "name": "\u68c0\u67e5\u5458",
+            "coreCode": "0015404"
+          },
+          {
+            "category": "4",
+            "name": "\u74e6\u65af\u5668\u5177\u5236\u9020\u5de5",
+            "coreCode": "0015405"
+          }
+        ],
+        "category": "null",
+        "name": "\u74e6\u65af",
+        "coreCode": "01504"
+      }
+    ],
+    "category": "null",
+    "name": "\u516c\u5171\u4e8b\u4e1a",
+    "coreCode": "015"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u53a8\u5177\u5546",
+            "coreCode": "0016101"
+          },
+          {
+            "category": "1",
+            "name": "\u9676\u74f7\u5668\u5546",
+            "coreCode": "0016102"
+          },
+          {
+            "category": "1",
+            "name": "\u53e4\u8463\u5546",
+            "coreCode": "0016103"
+          },
+          {
+            "category": "1",
+            "name": "\u82b1\u5349\u5546",
+            "coreCode": "0016104"
+          },
+          {
+            "category": "1",
+            "name": "\u7c73\u5546",
+            "coreCode": "0016105"
+          },
+          {
+            "category": "1",
+            "name": "\u6742\u8d27\u5546",
+            "coreCode": "0016106"
+          },
+          {
+            "category": "2",
+            "name": "\u73bb\u7483\u5546",
+            "coreCode": "0016107"
+          },
+          {
+            "category": "1",
+            "name": "\u679c\u83dc\u5546",
+            "coreCode": "0016108"
+          },
+          {
+            "category": "2",
+            "name": "\u77f3\u6750\u5546",
+            "coreCode": "0016109"
+          },
+          {
+            "category": "2",
+            "name": "\u5efa\u6750\u5546",
+            "coreCode": "0016110"
+          },
+          {
+            "category": "2",
+            "name": "\u94c1\u6750\u5546",
+            "coreCode": "0016111"
+          },
+          {
+            "category": "2",
+            "name": "\u6728\u6750\u5546",
+            "coreCode": "0016112"
+          },
+          {
+            "category": "2",
+            "name": "\u4e94\u91d1\u5546",
+            "coreCode": "0016113"
+          },
+          {
+            "category": "2",
+            "name": "\u7535\u5668\u5546",
+            "coreCode": "0016114"
+          },
+          {
+            "category": "2",
+            "name": "\u6c34\u7535\u536b\u751f\u5668\u6750\u5546",
+            "coreCode": "0016115"
+          },
+          {
+            "category": "1",
+            "name": "\u5bb6\u4ff1\u5546",
+            "coreCode": "0016116"
+          },
+          {
+            "category": "1",
+            "name": "\u81ea\u884c\u8f66\u4e70\u5356\u5546",
+            "coreCode": "0016117"
+          },
+          {
+            "category": "1",
+            "name": "\u673a\u8f66\u4e70\u5356\u5546",
+            "coreCode": "0016118"
+          },
+          {
+            "category": "1",
+            "name": "\u6c7d\u8f66\u4e70\u5356\u5546",
+            "coreCode": "0016119"
+          },
+          {
+            "category": "2",
+            "name": "\u8f66\u8f86\u5668\u6750\u5546\uff08\u4e0d\u542b\u77ff\u7269\u6cb9\uff09",
+            "coreCode": "0016120"
+          },
+          {
+            "category": "3",
+            "name": "\u77ff\u7269\u6cb9\u4e70\u5356\u5546",
+            "coreCode": "0016121"
+          },
+          {
+            "category": "1",
+            "name": "\u773c\u955c\u5546",
+            "coreCode": "0016122"
+          },
+          {
+            "category": "1",
+            "name": "\u98df\u54c1\u5546",
+            "coreCode": "0016123"
+          },
+          {
+            "category": "1",
+            "name": "\u6587\u5177\u5546",
+            "coreCode": "0016124"
+          },
+          {
+            "category": "1",
+            "name": "\u5e03\u5546",
+            "coreCode": "0016125"
+          },
+          {
+            "category": "1",
+            "name": "\u670d\u9970\u4e70\u5356\u5546",
+            "coreCode": "0016126"
+          },
+          {
+            "category": "4",
+            "name": "\u9c7c\u8d29",
+            "coreCode": "0016127"
+          },
+          {
+            "category": "4",
+            "name": "\u8089\u8d29",
+            "coreCode": "0016128"
+          },
+          {
+            "category": "1",
+            "name": "\u836f\u54c1\u4e70\u5356\u5546",
+            "coreCode": "0016131"
+          },
+          {
+            "category": "3",
+            "name": "\u5316\u5b66\u539f\u6599\u5546",
+            "coreCode": "0016132"
+          },
+          {
+            "category": "2",
+            "name": "\u533b\u7597\u673a\u68b0\u4eea\u5668\u5546",
+            "coreCode": "0016133"
+          },
+          {
+            "category": "1",
+            "name": "\u624b\u5de5\u827a\u54c1\u4e70\u5356\u5546",
+            "coreCode": "0016134"
+          },
+          {
+            "category": "1",
+            "name": "\u74e6\u65af\u5668\u5177\u8d1f\u8d23\u4eba",
+            "coreCode": "0016135"
+          },
+          {
+            "category": "1",
+            "name": "\u74e6\u65af\u5668\u5177\u5e97\u5458",
+            "coreCode": "0016136"
+          },
+          {
+            "category": "3",
+            "name": "\u74e6\u65af\u5668\u5177\u9001\u8d27\u5458",
+            "coreCode": "0016137"
+          },
+          {
+            "category": "3",
+            "name": "\u74e6\u65af\u5668\u5177\u88c5\u8bbe\u5de5",
+            "coreCode": "0016138"
+          },
+          {
+            "category": "2",
+            "name": "\u6db2\u5316\u74e6\u65af\u96f6\u552e\u8d1f\u8d23\u4eba",
+            "coreCode": "0016139"
+          },
+          {
+            "category": "2",
+            "name": "\u6db2\u5316\u74e6\u65af\u96f6\u552e\u5e97\u5458",
+            "coreCode": "0016140"
+          },
+          {
+            "category": "4",
+            "name": "\u6db2\u5316\u74e6\u65af\u9001\u8d27\u5458",
+            "coreCode": "0016141"
+          },
+          {
+            "category": "5",
+            "name": "\u6db2\u5316\u74e6\u65af\u74e6\u6599\u5206\u88c5\u5de5",
+            "coreCode": "0016142"
+          },
+          {
+            "category": "3",
+            "name": "\u6db2\u5316\u74e6\u65af\u65e7\u8d27\u6536\u8d2d\u4eba\u5458",
+            "coreCode": "0016143"
+          }
+        ],
+        "category": "null",
+        "name": "\u4e70\u5356",
+        "coreCode": "01601"
+      }
+    ],
+    "category": "null",
+    "name": "\u4e00\u822c\u5546\u4e1a",
+    "coreCode": "016"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u4e00\u822c\u5185\u52e4",
+            "coreCode": "0017101"
+          },
+          {
+            "category": "2",
+            "name": "\u5916\u52a1\u5458",
+            "coreCode": "0017102"
+          },
+          {
+            "category": "2",
+            "name": "\u6536\u8d39\u5458",
+            "coreCode": "0017103"
+          },
+          {
+            "category": "2",
+            "name": "\u8c03\u67e5\u5458",
+            "coreCode": "0017104"
+          },
+          {
+            "category": "2",
+            "name": "\u5fb5\u4fe1\u4eba\u5458",
+            "coreCode": "0017105"
+          },
+          {
+            "category": "5",
+            "name": "\u73b0\u91d1\u8fd0\u9001\u5458\uff0c\u53f8\u673a",
+            "coreCode": "0017106"
+          }
+        ],
+        "category": "null",
+        "name": "\u94f6\u884c\u3001\u4fdd\u9669\u3001\u4fe1\u6258\u3001\u79df\u8d41",
+        "coreCode": "01701"
+      },
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u5f8b\u5e08",
+            "coreCode": "0017201"
+          },
+          {
+            "category": "1",
+            "name": "\u4f1a\u8ba1\u5e08",
+            "coreCode": "0017202"
+          },
+          {
+            "category": "1",
+            "name": "\u4ee3\u4e66\uff08\u5185\u52e4\uff09",
+            "coreCode": "0017203"
+          },
+          {
+            "category": "1",
+            "name": "\u7ecf\u7eaa\u4eba\uff08\u5185\u52e4\uff09",
+            "coreCode": "0017204"
+          },
+          {
+            "category": "2",
+            "name": "\u5916\u52e4\u4eba\u5458",
+            "coreCode": "0017205"
+          }
+        ],
+        "category": "null",
+        "name": "\u81ea\u7531\u4e1a",
+        "coreCode": "01702"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u516c\u8bc1\u884c\u5916\u52a1\u5458",
+            "coreCode": "0017301"
+          },
+          {
+            "category": "2",
+            "name": "\u62a5\u5173\u884c\u5916\u52a1\u5458",
+            "coreCode": "0017302"
+          },
+          {
+            "category": "1",
+            "name": "\u7406\u53d1\u5e08",
+            "coreCode": "0017303"
+          },
+          {
+            "category": "1",
+            "name": "\u7f8e\u5bb9\u5e08",
+            "coreCode": "0017304"
+          },
+          {
+            "category": "1",
+            "name": "\u949f\u8868\u5320",
+            "coreCode": "0017305"
+          },
+          {
+            "category": "2",
+            "name": "\u978b\u5320\uff0c\u96e8\u4f1e\u5320",
+            "coreCode": "0017306"
+          },
+          {
+            "category": "2",
+            "name": "\u6d17\u8863\u5e97\u5de5\u4eba",
+            "coreCode": "0017307"
+          },
+          {
+            "category": "2",
+            "name": "\u8b66\u536b\u4eba\u5458\uff08\u5185\u52e4\uff09",
+            "coreCode": "0017309"
+          },
+          {
+            "category": "4",
+            "name": "\u8b66\u536b\u4eba\u5458\uff08\u8d1f\u8d23\u5de1\u903b\u62bc\u8fd0\u4efb\u52a1\u8005\uff09",
+            "coreCode": "0017310"
+          },
+          {
+            "category": "2",
+            "name": "\u5927\u697c\u7ba1\u7406\u5458",
+            "coreCode": "0017311"
+          },
+          {
+            "category": "1",
+            "name": "\u6444\u5f71\u5e08",
+            "coreCode": "0017312"
+          },
+          {
+            "category": "3",
+            "name": "\u9053\u8def\u6e05\u6d01\u5de5",
+            "coreCode": "0017313"
+          },
+          {
+            "category": "4",
+            "name": "\u4e0b\u6c34\u9053\u6e05\u6d01\u5de5",
+            "coreCode": "0017314"
+          },
+          {
+            "category": "2",
+            "name": "\u6e05\u6d01\uff0c\u6253\u8721\u5de5\u4eba",
+            "coreCode": "0017315"
+          },
+          {
+            "category": "5",
+            "name": "\u9ad8\u697c\u5916\u90e8\u6e05\u6d01\u5de5",
+            "coreCode": "0017316"
+          },
+          {
+            "category": "2",
+            "name": "\u8f66\u8f86\u4fdd\u7ba1\u4eba\u5458",
+            "coreCode": "0017317"
+          },
+          {
+            "category": "2",
+            "name": "\u52a0\u6cb9\u7ad9\u4eba\u5458",
+            "coreCode": "0017318"
+          },
+          {
+            "category": "2",
+            "name": "\u5730\u78c5\u4eba\u5458",
+            "coreCode": "0017319"
+          },
+          {
+            "category": "8",
+            "name": "\u70df\u56f1\u6e05\u6d01\u5de5",
+            "coreCode": "0017320"
+          },
+          {
+            "category": "1",
+            "name": "\u6851\u62ff\u4e1a\u8d1f\u8d23\u4eba",
+            "coreCode": "0017321"
+          },
+          {
+            "category": "1",
+            "name": "\u6851\u62ff\u4e1a\u67dc\u53f0\u4eba\u5458",
+            "coreCode": "0017322"
+          },
+          {
+            "category": "2",
+            "name": "\u6851\u62ff\u4e1a\u5de5\u4f5c\u4eba\u5458",
+            "coreCode": "0017323"
+          }
+        ],
+        "category": "null",
+        "name": "\u5176\u4ed6",
+        "coreCode": "01703"
+      }
+    ],
+    "category": "null",
+    "name": "\u670d\u52a1\u4e1a",
+    "coreCode": "017"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u5bb6\u5ead\u4e3b\u5987",
+            "coreCode": "0018001"
+          },
+          {
+            "category": "2",
+            "name": "\u4f63\u4eba",
+            "coreCode": "0018002"
+          }
+        ],
+        "category": "null",
+        "name": "\u5bb6\u653f\u7ba1\u7406",
+        "coreCode": "01801"
+      }
+    ],
+    "category": "null",
+    "name": "\u5bb6\u5ead\u7ba1\u7406",
+    "coreCode": "018"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u8b66\u52a1\u884c\u653f\u53ca\u5185\u52e4\u4eba\u5458",
+            "coreCode": "0019001"
+          },
+          {
+            "category": "4",
+            "name": "\u8b66\u5bdf\uff08\u8d1f\u8d23\u5de1\u903b\u4efb\u52a1\u8005\uff09",
+            "coreCode": "0019002"
+          },
+          {
+            "category": "3",
+            "name": "\u76d1\u72f1\u770b\u5b88\u6240\u7ba1\u7406\u4eba\u5458",
+            "coreCode": "0019003"
+          },
+          {
+            "category": "5",
+            "name": "\u4ea4\u901a\u8b66\u5bdf",
+            "coreCode": "0019004"
+          },
+          {
+            "category": "5",
+            "name": "\u5211\u8b66",
+            "coreCode": "0019005"
+          },
+          {
+            "category": "6",
+            "name": "\u6d88\u9632\u961f\u961f\u5458",
+            "coreCode": "0019006"
+          },
+          {
+            "category": "8",
+            "name": "\u9547\u66b4\u8b66\u5bdf",
+            "coreCode": "0019007"
+          }
+        ],
+        "category": "null",
+        "name": "\u6cbb\u5b89\u4eba\u5458",
+        "coreCode": "01901"
+      }
+    ],
+    "category": "null",
+    "name": "\u6cbb\u5b89\u4eba\u5458",
+    "coreCode": "019"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u4e00\u822c\u519b\u4eba",
+            "coreCode": "0020001"
+          },
+          {
+            "category": "8",
+            "name": "\u7279\u79cd\u5175",
+            "coreCode": "0020002"
+          },
+          {
+            "category": "1",
+            "name": "\u884c\u653f\u53ca\u5185\u52e4\u4eba\u5458",
+            "coreCode": "0020003"
+          },
+          {
+            "category": "4",
+            "name": "\u519b\u4e8b\u7ea0\u5bdf",
+            "coreCode": "0020004"
+          }
+        ],
+        "category": "null",
+        "name": "\u73b0\u5f79\u519b\u4eba",
+        "coreCode": "02001"
+      }
+    ],
+    "category": "null",
+    "name": "\u519b\u4eba",
+    "coreCode": "020"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u7ef4\u62a4\u5de5\u7a0b\u5e08",
+            "coreCode": "0021001"
+          },
+          {
+            "category": "1",
+            "name": "\u7cfb\u7edf\u5de5\u7a0b\u5e08",
+            "coreCode": "0021002"
+          },
+          {
+            "category": "1",
+            "name": "\u9500\u552e\u5de5\u7a0b\u5e08",
+            "coreCode": "0021003"
+          }
+        ],
+        "category": "null",
+        "name": "\u8d44\u8baf\u4e1a",
+        "coreCode": "02101"
+      }
+    ],
+    "category": "null",
+    "name": "\u8d44\u8baf\u4e1a",
+    "coreCode": "021"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u9ad8\u5c14\u592b\u7403\u7403\u5458",
+            "coreCode": "0022001"
+          }
+        ],
+        "category": "null",
+        "name": "\u9ad8\u5c14\u592b\u7403\u573a",
+        "coreCode": "02201"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022002"
+          },
+          {
+            "category": "2",
+            "name": "\u4fdd\u9f84\u7403\u7403\u5458",
+            "coreCode": "0022003"
+          }
+        ],
+        "category": "null",
+        "name": "\u4fdd\u9f84\u7403",
+        "coreCode": "02202"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022004"
+          }
+        ],
+        "category": "null",
+        "name": "\u684c\u7403",
+        "coreCode": "02203"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u9a7e\u4e58\u4eba\u5458",
+            "coreCode": "0022005"
+          }
+        ],
+        "category": "null",
+        "name": "\u6cdb\u821f",
+        "coreCode": "02204"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022006"
+          },
+          {
+            "category": "3",
+            "name": "\u5de7\u56fa\u7403\u7403\u5458",
+            "coreCode": "0022007"
+          }
+        ],
+        "category": "null",
+        "name": "\u5de7\u56fa\u7403",
+        "coreCode": "02205"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022008"
+          },
+          {
+            "category": "3",
+            "name": "\u624b\u7403\u7403\u5458",
+            "coreCode": "0022009"
+          }
+        ],
+        "category": "null",
+        "name": "\u624b\u7403",
+        "coreCode": "02206"
+      },
+      {
+        "children": [
+          {
+            "category": "4",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022010"
+          },
+          {
+            "category": "4",
+            "name": "\u9a7e\u4e58\u4eba\u5458",
+            "coreCode": "0022011"
+          }
+        ],
+        "category": "null",
+        "name": "\u98ce\u6d6a\u677f",
+        "coreCode": "02207"
+      },
+      {
+        "children": [
+          {
+            "category": "4",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022012"
+          },
+          {
+            "category": "4",
+            "name": "\u9a7e\u4e58\u4eba\u5458",
+            "coreCode": "0022013"
+          }
+        ],
+        "category": "null",
+        "name": "\u6c34\u4e0a\u6469\u6258\u8f66",
+        "coreCode": "02208"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022014"
+          },
+          {
+            "category": "4",
+            "name": "\u8db3\u7403\u7403\u5458",
+            "coreCode": "0022015"
+          }
+        ],
+        "category": "null",
+        "name": "\u8db3\u7403",
+        "coreCode": "02209"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022016"
+          },
+          {
+            "category": "5",
+            "name": "\u66f2\u68cd\u7403\u7403\u5458",
+            "coreCode": "0022017"
+          }
+        ],
+        "category": "null",
+        "name": "\u66f2\u68cd\u7403",
+        "coreCode": "02210"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022018"
+          },
+          {
+            "category": "6",
+            "name": "\u51b0\u4e0a\u66f2\u68cd\u7403\u7403\u5458",
+            "coreCode": "0022019"
+          }
+        ],
+        "category": "null",
+        "name": "\u51b0\u4e0a\u66f2\u68cd\u7403",
+        "coreCode": "02211"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022020"
+          },
+          {
+            "category": "6",
+            "name": "\u6a44\u6984\u7403\u7403\u5458",
+            "coreCode": "0022021"
+          }
+        ],
+        "category": "null",
+        "name": "\u6a44\u6984\u7403",
+        "coreCode": "02212"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022022"
+          },
+          {
+            "category": "3",
+            "name": "\u81ea\u884c\u8f66\u4eba\u5458",
+            "coreCode": "0022023"
+          }
+        ],
+        "category": "null",
+        "name": "\u81ea\u884c\u8f66",
+        "coreCode": "02213"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022024"
+          },
+          {
+            "category": "7",
+            "name": "\u89d2\u529b\u4eba\u5458",
+            "coreCode": "0022025"
+          }
+        ],
+        "category": "null",
+        "name": "\u89d2\u529b",
+        "coreCode": "02214"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022026"
+          },
+          {
+            "category": "7",
+            "name": "\u6454\u8de4\u4eba\u5458",
+            "coreCode": "0022027"
+          }
+        ],
+        "category": "null",
+        "name": "\u6454\u8de4",
+        "coreCode": "02215"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022028"
+          },
+          {
+            "category": "7",
+            "name": "\u67d4\u9053\u4eba\u5458",
+            "coreCode": "0022029"
+          }
+        ],
+        "category": "null",
+        "name": "\u67d4\u9053",
+        "coreCode": "02216"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022030"
+          },
+          {
+            "category": "7",
+            "name": "\u7a7a\u624b\u9053\u4eba\u5458",
+            "coreCode": "0022031"
+          }
+        ],
+        "category": "null",
+        "name": "\u7a7a\u624b\u9053",
+        "coreCode": "02217"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022032"
+          },
+          {
+            "category": "7",
+            "name": "\u8dc6\u62f3\u9053\u4eba\u5458",
+            "coreCode": "0022033"
+          }
+        ],
+        "category": "null",
+        "name": "\u8dc6\u62f3\u9053",
+        "coreCode": "02218"
+      },
+      {
+        "children": [
+          {
+            "category": "7",
+            "name": "\u6b66\u672f\u4eba\u5458",
+            "coreCode": "0022034"
+          },
+          {
+            "category": "3",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022035"
+          }
+        ],
+        "category": "null",
+        "name": "\u6b66\u672f",
+        "coreCode": "02219"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022036"
+          },
+          {
+            "category": "7",
+            "name": "\u62f3\u51fb\u4eba\u5458",
+            "coreCode": "0022037"
+          }
+        ],
+        "category": "null",
+        "name": "\u62f3\u51fb",
+        "coreCode": "02220"
+      },
+      {
+        "children": [
+          {
+            "category": "7",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022038"
+          },
+          {
+            "category": "7",
+            "name": "\u6f5c\u6c34\u4eba\u5458",
+            "coreCode": "0022039"
+          }
+        ],
+        "category": "null",
+        "name": "\u6f5c\u6c34",
+        "coreCode": "02221"
+      },
+      {
+        "children": [
+          {
+            "category": "7",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022040"
+          }
+        ],
+        "category": "null",
+        "name": "\u6ed1\u6c34",
+        "coreCode": "02222"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u684c\u7403\u7403\u5458",
+            "coreCode": "0022041"
+          }
+        ],
+        "category": "null",
+        "name": "\u684c\u7403",
+        "coreCode": "02223"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022042"
+          },
+          {
+            "category": "2",
+            "name": "\u7fbd\u7403\u7403\u5458",
+            "coreCode": "0022043"
+          }
+        ],
+        "category": "null",
+        "name": "\u7fbd\u7403",
+        "coreCode": "02224"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022044"
+          },
+          {
+            "category": "2",
+            "name": "\u6e38\u6cf3\u4eba\u5458",
+            "coreCode": "0022045"
+          }
+        ],
+        "category": "null",
+        "name": "\u6e38\u6cf3",
+        "coreCode": "02225"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022046"
+          },
+          {
+            "category": "2",
+            "name": "\u5c04\u7bad\u4eba\u5458",
+            "coreCode": "0022047"
+          }
+        ],
+        "category": "null",
+        "name": "\u5c04\u7bad",
+        "coreCode": "02226"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022048"
+          },
+          {
+            "category": "2",
+            "name": "\u7f51\u7403\u4eba\u5458",
+            "coreCode": "0022049"
+          }
+        ],
+        "category": "null",
+        "name": "\u7f51\u7403",
+        "coreCode": "02227"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022050"
+          },
+          {
+            "category": "2",
+            "name": "\u5792\u7403\u4eba\u5458",
+            "coreCode": "0022051"
+          }
+        ],
+        "category": "null",
+        "name": "\u5792\u7403",
+        "coreCode": "02228"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022052"
+          },
+          {
+            "category": "2",
+            "name": "\u6e9c\u51b0\u4eba\u5458",
+            "coreCode": "0022053"
+          }
+        ],
+        "category": "null",
+        "name": "\u6e9c\u51b0",
+        "coreCode": "02229"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022054"
+          },
+          {
+            "category": "2",
+            "name": "\u5c04\u51fb\u4eba\u5458",
+            "coreCode": "0022055"
+          }
+        ],
+        "category": "null",
+        "name": "\u5c04\u51fb",
+        "coreCode": "02230"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022056"
+          },
+          {
+            "category": "2",
+            "name": "\u6c11\u4fd7\u4f53\u80b2\u6d3b\u52a8\u4eba\u5458",
+            "coreCode": "0022057"
+          }
+        ],
+        "category": "null",
+        "name": "\u6c11\u4fd7\u4f53\u80b2\u8fd0\u52a8",
+        "coreCode": "02231"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022058"
+          },
+          {
+            "category": "3",
+            "name": "\u4e3e\u91cd\u4eba\u5458",
+            "coreCode": "0022059"
+          }
+        ],
+        "category": "null",
+        "name": "\u4e3e\u91cd",
+        "coreCode": "02232"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022060"
+          },
+          {
+            "category": "3",
+            "name": "\u7bee\u7403\u7403\u5458",
+            "coreCode": "0022061"
+          }
+        ],
+        "category": "null",
+        "name": "\u7bee\u7403",
+        "coreCode": "02233"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022062"
+          },
+          {
+            "category": "3",
+            "name": "\u6392\u7403\u7403\u5458",
+            "coreCode": "0022063"
+          }
+        ],
+        "category": "null",
+        "name": "\u6392\u7403",
+        "coreCode": "02234"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022064"
+          },
+          {
+            "category": "3",
+            "name": "\u68d2\u7403\u7403\u5458",
+            "coreCode": "0022065"
+          }
+        ],
+        "category": "null",
+        "name": "\u68d2\u7403",
+        "coreCode": "02235"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022066"
+          },
+          {
+            "category": "3",
+            "name": "\u4e0e\u8d5b\u4eba\u5458",
+            "coreCode": "0022067"
+          }
+        ],
+        "category": "null",
+        "name": "\u7530\u5f84",
+        "coreCode": "02236"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022068"
+          },
+          {
+            "category": "3",
+            "name": "\u4f53\u64cd\u4eba\u5458",
+            "coreCode": "0022069"
+          }
+        ],
+        "category": "null",
+        "name": "\u4f53\u64cd",
+        "coreCode": "02237"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022070"
+          },
+          {
+            "category": "3",
+            "name": "\u6ed1\u8349\u4eba\u5458",
+            "coreCode": "0022071"
+          }
+        ],
+        "category": "null",
+        "name": "\u6ed1\u8349",
+        "coreCode": "02238"
+      },
+      {
+        "children": [
+          {
+            "category": "4",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022072"
+          },
+          {
+            "category": "4",
+            "name": "\u9a7e\u4e58\u4eba\u5458",
+            "coreCode": "0022073"
+          }
+        ],
+        "category": "null",
+        "name": "\u5e06\u8239",
+        "coreCode": "02239"
+      },
+      {
+        "children": [
+          {
+            "category": "2",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022074"
+          },
+          {
+            "category": "3",
+            "name": "\u9a7e\u4e58\u4eba\u5458",
+            "coreCode": "0022075"
+          }
+        ],
+        "category": "null",
+        "name": "\u5212\u8239",
+        "coreCode": "02240"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022076"
+          }
+        ],
+        "category": "null",
+        "name": "\u6cdb\u821f",
+        "coreCode": "02241"
+      },
+      {
+        "children": [
+          {
+            "category": "7",
+            "name": "\u6ed1\u51b0\u4eba\u5458",
+            "coreCode": "0022077"
+          }
+        ],
+        "category": "null",
+        "name": "\u6ed1\u51b0",
+        "coreCode": "02242"
+      },
+      {
+        "children": [
+          {
+            "category": "7",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022078"
+          },
+          {
+            "category": "7",
+            "name": "\u6ed1\u96ea\u4eba\u5458",
+            "coreCode": "0022079"
+          }
+        ],
+        "category": "null",
+        "name": "\u6ed1\u96ea",
+        "coreCode": "02243"
+      },
+      {
+        "children": [
+          {
+            "category": "7",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022080"
+          },
+          {
+            "category": "7",
+            "name": "\u9a6c\u672f\u4eba\u5458",
+            "coreCode": "0022081"
+          }
+        ],
+        "category": "null",
+        "name": "\u9a6c\u672f",
+        "coreCode": "02244"
+      },
+      {
+        "children": [
+          {
+            "category": "7",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022082"
+          },
+          {
+            "category": "7",
+            "name": "\u7279\u6280\u8868\u6f14\u4eba\u5458",
+            "coreCode": "0022083"
+          }
+        ],
+        "category": "null",
+        "name": "\u7279\u6280\u8868\u6f14",
+        "coreCode": "02245"
+      },
+      {
+        "children": [
+          {
+            "category": "7",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022084"
+          },
+          {
+            "category": "7",
+            "name": "\u4e0e\u8d5b\u4eba\u5458",
+            "coreCode": "0022085"
+          }
+        ],
+        "category": "null",
+        "name": "\u96ea\u8f66",
+        "coreCode": "02246"
+      },
+      {
+        "children": [
+          {
+            "category": "7",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022086"
+          },
+          {
+            "category": "7",
+            "name": "\u9a7e\u9a76\u4eba\u5458",
+            "coreCode": "0022087"
+          }
+        ],
+        "category": "null",
+        "name": "\u6ed1\u7fd4\u673a\u5177",
+        "coreCode": "02247"
+      },
+      {
+        "children": [
+          {
+            "category": "7",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022088"
+          },
+          {
+            "category": "7",
+            "name": "\u8d5b\u8f66\u4eba\u5458",
+            "coreCode": "0022089"
+          }
+        ],
+        "category": "null",
+        "name": "\u6c7d\u8f66\u3001\u673a\u8f66\u8d5b\u8f66",
+        "coreCode": "02248"
+      },
+      {
+        "children": [
+          {
+            "category": "7",
+            "name": "\u6559\u7ec3",
+            "coreCode": "0022090"
+          },
+          {
+            "category": "7",
+            "name": "\u8df3\u4f1e\u4eba\u5458",
+            "coreCode": "0022091"
+          }
+        ],
+        "category": "null",
+        "name": "\u8df3\u4f1e",
+        "coreCode": "02249"
+      }
+    ],
+    "category": "null",
+    "name": "\u804c\u4e1a\u8fd0\u52a8\u5458",
+    "coreCode": "022"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "category": "1",
+            "name": "\u5b66\u9f84\u524d\u513f\u7ae5",
+            "coreCode": "0022092"
+          },
+          {
+            "category": "2",
+            "name": "\u65e0\u56fa\u5b9a\u804c\u4e1a\u8005",
+            "coreCode": "0022093"
+          },
+          {
+            "category": "1",
+            "name": "\u79bb\u9000\u4f11\u4eba\u5458\uff08\u65e0\u517c\u804c\uff09",
+            "coreCode": "0022094"
+          }
+        ],
+        "category": "null",
+        "name": "\u65e0\u4e1a",
+        "coreCode": "02301"
+      },
+      {
+        "children": [
+          {
+            "category": "3",
+            "name": "\u519c\u6751\u52a1\u5de5\u4eba\u5458",
+            "coreCode": "0022095"
+          }
+        ],
+        "category": "null",
+        "name": "\u5176\u4ed6",
+        "coreCode": "02302"
+      }
+    ],
+    "category": "null",
+    "name": "\u5176\u4ed6",
+    "coreCode": "023"
+  }
+]
